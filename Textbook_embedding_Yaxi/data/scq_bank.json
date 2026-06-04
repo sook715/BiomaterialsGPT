@@ -2294,5 +2294,453 @@
   },
   "answer": "a",
   "explanation": "Antibacterial studies often differ in bacterial strains, inoculum, culture media, assay methods, controls, time points, and outcome measures. These differences can limit direct comparison."
+},
+  {
+  "id": "e8cb8b4f-77d5-4ed6-842e-b4e4453f9212",
+  "section": "Drug Delivery Biomaterials",
+  "number": "169",
+  "question": "What is a main purpose of using biomaterials in drug delivery systems?",
+  "options": {
+    "a": "To control where, when, and how fast a therapeutic agent is released",
+    "b": "To prevent any therapeutic molecule from reaching tissue",
+    "c": "To make all drugs permanently inactive",
+    "d": "To eliminate the need for dose control"
+  },
+  "answer": "a",
+  "explanation": "Drug delivery biomaterials are designed to control release location, timing, dosage, and kinetics. This can improve therapeutic effectiveness and reduce unwanted side effects."
+},
+{
+  "id": "3b76c7a5-ec59-4f2c-8f56-b22beed55a35",
+  "section": "Drug Delivery Biomaterials",
+  "number": "170",
+  "question": "Which property is especially important for a biodegradable drug delivery carrier?",
+  "options": {
+    "a": "Its degradation rate should be compatible with the intended drug release profile and biological environment",
+    "b": "It should never interact with water or tissue",
+    "c": "It should degrade before drug loading",
+    "d": "It should release the entire drug dose instantly in every case"
+  },
+  "answer": "a",
+  "explanation": "For biodegradable carriers, degradation rate can strongly influence drug release and tissue response. The degradation profile should match the therapeutic goal and implantation environment."
+},
+{
+  "id": "6e4e19d1-9fdf-4c41-8e3b-937ae536128c",
+  "section": "Drug Delivery Biomaterials",
+  "number": "171",
+  "question": "Which statement best describes controlled release?",
+  "options": {
+    "a": "Drug release is regulated over time rather than occurring all at once",
+    "b": "The drug is never released from the carrier",
+    "c": "The carrier releases only colour pigments",
+    "d": "The release rate is always irrelevant"
+  },
+  "answer": "a",
+  "explanation": "Controlled release aims to regulate the release rate and duration of a therapeutic agent. It may reduce dosing frequency and maintain drug levels within a useful therapeutic range."
+},
+{
+  "id": "cfa486b7-6ee9-44a0-8ab6-45a19555219c",
+  "section": "Drug Delivery Biomaterials",
+  "number": "172",
+  "question": "Which factor can influence drug release from a hydrogel carrier?",
+  "options": {
+    "a": "Mesh size, swelling, degradation, drug-polymer interactions, and crosslinking density",
+    "b": "Only the colour of the hydrogel",
+    "c": "Only the name of the manufacturer",
+    "d": "The number of words in the paper title"
+  },
+  "answer": "a",
+  "explanation": "Hydrogel drug release can be affected by network structure, swelling, degradation, crosslinking, and interactions between the drug and polymer."
+},
+{
+  "id": "9e8fb066-d5d7-47d2-ae59-9f67e46b48cf",
+  "section": "Drug Delivery Biomaterials",
+  "number": "173",
+  "question": "Which statement best explains why burst release can be a limitation in drug delivery systems?",
+  "options": {
+    "a": "A large initial release may cause toxicity or shorten the intended duration of therapy",
+    "b": "Burst release always improves long-term controlled delivery",
+    "c": "Burst release means no drug is released",
+    "d": "Burst release prevents any local biological effect"
+  },
+  "answer": "a",
+  "explanation": "Burst release can lead to excessive early drug concentration and reduced long-term release. Depending on the application, this may increase toxicity or reduce therapeutic duration."
+},
+{
+  "id": "882d9411-817c-4188-8ee4-3eb29810a1ce",
+  "section": "Drug Delivery Biomaterials",
+  "number": "174",
+  "question": "Which evidence would best support a claim that a biomaterial provides sustained drug release?",
+  "options": {
+    "a": "A time-course release profile showing drug release over a relevant period",
+    "b": "A photograph of the empty sample tube",
+    "c": "A statement that the material looks smooth",
+    "d": "The price of the polymer"
+  },
+  "answer": "a",
+  "explanation": "Sustained release should be supported by quantitative release data over time, ideally under conditions relevant to the intended biological or clinical application."
+},
+{
+  "id": "c6bdbe1d-5694-4996-9f54-43f8df3664ed",
+  "section": "Drug Delivery Biomaterials",
+  "number": "175",
+  "question": "Which statement best describes a stimulus-responsive drug delivery biomaterial?",
+  "options": {
+    "a": "A material that changes release behaviour in response to triggers such as pH, temperature, enzymes, or light",
+    "b": "A material that cannot respond to any environmental condition",
+    "c": "A material that only stores drugs without releasing them",
+    "d": "A material used only for mechanical testing"
+  },
+  "answer": "a",
+  "explanation": "Stimulus-responsive biomaterials can alter swelling, degradation, permeability, or drug release in response to environmental or externally applied triggers."
+},
+{
+  "id": "ab5f0d51-c86f-4bc1-b8a0-36b5d065ee11",
+  "section": "Drug Delivery Biomaterials",
+  "number": "176",
+  "question": "Which condition-sensitive statement about drug release testing is most accurate?",
+  "options": {
+    "a": "Release behaviour can depend on pH, temperature, medium composition, agitation, and test geometry",
+    "b": "Release behaviour is always identical in every test medium",
+    "c": "Release behaviour is determined only by the colour of the carrier",
+    "d": "The test environment has no influence on release kinetics"
+  },
+  "answer": "a",
+  "explanation": "Drug release is context-dependent. Experimental conditions such as pH, ionic strength, temperature, medium replacement, agitation, and sample geometry can influence measured release."
+},
+{
+  "id": "c4da9801-8410-4fe3-9358-479e5eb164d6",
+  "section": "Drug Delivery Biomaterials",
+  "number": "177",
+  "question": "Which statement best explains why local drug delivery can be useful for implants?",
+  "options": {
+    "a": "It can deliver therapeutic agents near the target site while potentially reducing systemic exposure",
+    "b": "It prevents all local biological effects",
+    "c": "It guarantees zero toxicity in every patient",
+    "d": "It eliminates the need to consider release kinetics"
+  },
+  "answer": "a",
+  "explanation": "Local delivery can concentrate drugs near the implant or defect site and may reduce systemic exposure. However, dose, release kinetics, and local tissue response still need evaluation."
+},
+{
+  "id": "62801886-c9fd-48ff-8413-1993c31f13bd",
+  "section": "Drug Delivery Biomaterials",
+  "number": "178",
+  "question": "Which design issue is especially important for growth factor delivery in tissue engineering?",
+  "options": {
+    "a": "Maintaining bioactivity while controlling dose, timing, and spatial presentation",
+    "b": "Ensuring the growth factor is permanently destroyed before use",
+    "c": "Releasing all growth factor instantly regardless of tissue response",
+    "d": "Ignoring the target cell type"
+  },
+  "answer": "a",
+  "explanation": "Growth factors are biologically active molecules. Their delivery requires control over dose, release timing, localisation, and preservation of bioactivity."
+},
+{
+  "id": "9ae9d4a1-1082-4dff-948d-9076f1f1b8bb",
+  "section": "Drug Delivery Biomaterials",
+  "number": "179",
+  "question": "Which statement best describes a limitation of using antibiotics in biomaterial-based delivery systems?",
+  "options": {
+    "a": "Release concentration and duration must be controlled to avoid toxicity and reduce resistance-related risks",
+    "b": "Antibiotics have no dose-dependent biological effects",
+    "c": "Antibiotics cannot be released from biomaterials",
+    "d": "Antibiotic delivery systems require no biological testing"
+  },
+  "answer": "a",
+  "explanation": "Antibiotic delivery can reduce infection risk, but suboptimal release may cause toxicity, insufficient antibacterial effect, or selection pressure for resistance."
+},
+{
+  "id": "ddc5139d-d08d-4748-a246-6e028d78ae06",
+  "section": "Drug Delivery Biomaterials",
+  "number": "180",
+  "question": "Which outcome would be most relevant when evaluating a biomaterial for drug delivery?",
+  "options": {
+    "a": "Drug loading efficiency, release kinetics, bioactivity, toxicity, and therapeutic effect",
+    "b": "Only the shape of the storage box",
+    "c": "Only the colour of the sample",
+    "d": "Only the number of authors in a study"
+  },
+  "answer": "a",
+  "explanation": "Drug delivery evaluation should include how much drug is loaded, how it is released, whether it remains active, whether the system is safe, and whether it produces the intended effect."
+},
+{
+  "id": "451bc8ca-1377-40c8-bdbb-4be9d7b640cc",
+  "section": "Drug Delivery Biomaterials",
+  "number": "181",
+  "question": "Which statement best explains why nanoparticles are used in some drug delivery systems?",
+  "options": {
+    "a": "They can alter biodistribution, protect cargo, and enable controlled or targeted delivery depending on design",
+    "b": "They are used only because they are visible to the naked eye",
+    "c": "They always eliminate all toxicity",
+    "d": "They cannot interact with biological barriers"
+  },
+  "answer": "a",
+  "explanation": "Nanoparticles can be engineered to influence cargo protection, release, biodistribution, cellular uptake, and targeting. Their safety and effectiveness depend on material and biological context."
+},
+{
+  "id": "8ff3ca91-8877-4c33-8b55-03dbe0f8ad13",
+  "section": "Drug Delivery Biomaterials",
+  "number": "182",
+  "question": "Which uncertainty should a RAG system recognise when comparing two drug delivery materials?",
+  "options": {
+    "a": "The better material depends on drug type, target tissue, release profile, toxicity, and intended application",
+    "b": "One delivery material must be best for every drug and every tissue",
+    "c": "Drug type has no effect on material selection",
+    "d": "Release profile is irrelevant to drug delivery"
+  },
+  "answer": "a",
+  "explanation": "Drug delivery performance is context-dependent. A material suitable for one drug, route, or tissue may not be appropriate for another."
+},
+{
+  "id": "fc371070-00b6-4332-8ff5-166fdc53ca94",
+  "section": "Drug Delivery Biomaterials",
+  "number": "183",
+  "question": "Which interpretation should be avoided if a study only reports in vitro drug release without biological efficacy data?",
+  "options": {
+    "a": "Claiming the system has proven therapeutic benefit in patients",
+    "b": "Stating that release was observed under the tested conditions",
+    "c": "Noting that biological activity and in vivo performance still need evaluation",
+    "d": "Recognising that release testing alone is limited"
+  },
+  "answer": "a",
+  "explanation": "In vitro release data show release behaviour under test conditions, but they do not by themselves prove therapeutic efficacy or clinical benefit."
+},
+{
+  "id": "a97782da-4c83-4fa4-b538-ed0347937170",
+  "section": "Drug Delivery Biomaterials",
+  "number": "184",
+  "question": "Which statement best explains why carrier degradation products matter in drug delivery?",
+  "options": {
+    "a": "They may affect local pH, toxicity, inflammation, and drug release behaviour",
+    "b": "They are always biologically invisible",
+    "c": "They never interact with cells or tissues",
+    "d": "They are relevant only to material colour"
+  },
+  "answer": "a",
+  "explanation": "Degradation products can influence local tissue response, pH, inflammation, toxicity, and release kinetics. Therefore, they are important in biodegradable delivery systems."
+},
+{
+  "id": "3fb201fd-9b42-463d-8d81-674282422ca8",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "185",
+  "question": "Which behaviour is most appropriate for a RAG system when retrieved evidence is insufficient to answer a question?",
+  "options": {
+    "a": "State that the evidence is insufficient rather than inventing an unsupported answer",
+    "b": "Generate a confident answer without evidence",
+    "c": "Ignore the retrieved context completely",
+    "d": "Always choose the longest possible answer"
+  },
+  "answer": "a",
+  "explanation": "A RAG system should ground answers in retrieved evidence. When evidence is insufficient, it should communicate uncertainty rather than hallucinating unsupported claims."
+},
+{
+  "id": "1cb5e239-8500-40d6-a74c-e04924cdbd57",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "186",
+  "question": "Which question best tests whether a RAG system can synthesise evidence rather than only retrieve a definition?",
+  "options": {
+    "a": "Which scaffold design factors must be balanced to support cell infiltration while maintaining mechanical strength?",
+    "b": "How many letters are in the word bone?",
+    "c": "What colour is the GitHub button?",
+    "d": "Which option is alphabetically first?"
+  },
+  "answer": "a",
+  "explanation": "Evidence synthesis questions require combining multiple ideas, such as porosity, nutrient transport, mechanical strength, degradation, and tissue integration."
+},
+{
+  "id": "16ed6f72-b401-49bb-b8b4-bec4f4074783",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "187",
+  "question": "Which answer style is most appropriate when evidence from different studies conflicts?",
+  "options": {
+    "a": "Acknowledge the conflict and explain possible reasons such as different methods, materials, or conditions",
+    "b": "Pretend all studies agree",
+    "c": "Delete the conflicting evidence from the answer",
+    "d": "Choose the more exciting claim without checking methods"
+  },
+  "answer": "a",
+  "explanation": "When evidence conflicts, a grounded system should acknowledge disagreement and consider study design, material differences, biological models, and experimental conditions."
+},
+{
+  "id": "b4be2a03-0b4b-4541-9c25-4877ea3dd92a",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "188",
+  "question": "Which statement best describes hallucination in a RAG-based scientific answer?",
+  "options": {
+    "a": "Presenting unsupported or invented information as if it were supported by evidence",
+    "b": "Citing relevant retrieved evidence accurately",
+    "c": "Saying that evidence is insufficient when it is insufficient",
+    "d": "Comparing two materials using retrieved data"
+  },
+  "answer": "a",
+  "explanation": "Hallucination occurs when a model generates unsupported or fabricated content. In scientific RAG, this is especially problematic because answers should be grounded in evidence."
+},
+{
+  "id": "34f81d4e-cf02-4469-841b-f03cf9bc90f7",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "189",
+  "question": "Which evidence would be strongest for claiming clinical effectiveness of a biomaterial implant?",
+  "options": {
+    "a": "Well-designed in vivo and clinical evidence relevant to the intended application",
+    "b": "Only an in vitro cytotoxicity assay",
+    "c": "Only the material being described as promising",
+    "d": "Only a schematic diagram"
+  },
+  "answer": "a",
+  "explanation": "Clinical effectiveness requires evidence beyond basic in vitro testing. In vivo and clinical data relevant to the intended application provide stronger support."
+},
+{
+  "id": "5fe834d6-13cb-48e7-9097-f3075659a595",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "190",
+  "question": "Which statement best reflects appropriate caution when interpreting in vitro biomaterials data?",
+  "options": {
+    "a": "In vitro data can suggest mechanisms or early performance but may not predict full in vivo or clinical outcomes",
+    "b": "In vitro data always prove long-term clinical success",
+    "c": "In vitro data are never useful",
+    "d": "In vitro conditions are identical to the human body"
+  },
+  "answer": "a",
+  "explanation": "In vitro studies are useful for early evaluation, but they simplify the biological environment and may not capture immune response, mechanics, vascularisation, degradation, or long-term clinical behaviour."
+},
+{
+  "id": "23d61f45-c2e1-4796-97f6-e6959d603620",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "191",
+  "question": "Which factor can make direct comparison between two biomaterial studies difficult?",
+  "options": {
+    "a": "Different materials, processing methods, cell types, animal models, time points, and outcome measures",
+    "b": "The studies both using scientific language",
+    "c": "The titles being different lengths",
+    "d": "The papers being stored as PDFs"
+  },
+  "answer": "a",
+  "explanation": "Biomaterials studies often differ in design and methods. Such differences can limit direct comparison and require cautious interpretation."
+},
+{
+  "id": "9dc6bbd6-ad18-4116-8502-0ffeff490e49",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "192",
+  "question": "Which response is most appropriate if a question asks for a numerical value that is not present in the retrieved context?",
+  "options": {
+    "a": "State that the retrieved evidence does not provide the value",
+    "b": "Invent a plausible-looking number",
+    "c": "Use a number from an unrelated topic",
+    "d": "Always answer 100%"
+  },
+  "answer": "a",
+  "explanation": "A grounded RAG system should not fabricate numerical values. If the retrieved context lacks the requested data, it should state the limitation."
+},
+{
+  "id": "751a0fd1-0620-4c3c-9cf4-7793e8a69f01",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "193",
+  "question": "Which option best describes a condition-sensitive biomaterials question?",
+  "options": {
+    "a": "A question where the correct answer depends on application context, material processing, biological model, or test conditions",
+    "b": "A question where the answer is always independent of context",
+    "c": "A question about the colour of a website",
+    "d": "A question that forbids mentioning experimental conditions"
+  },
+  "answer": "a",
+  "explanation": "Condition-sensitive questions test whether the system recognises that biomaterial performance depends on context such as tissue site, processing, cell type, dose, degradation, and testing environment."
+},
+{
+  "id": "9ebf3a15-8fae-4245-9b40-0c0bfdf84cf3",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "194",
+  "question": "Which answer would be least appropriate in a scientific RAG evaluation?",
+  "options": {
+    "a": "A confident claim that goes beyond the retrieved evidence",
+    "b": "An answer that cites relevant limitations",
+    "c": "An answer that distinguishes in vitro and in vivo evidence",
+    "d": "An answer that states uncertainty when evidence is missing"
+  },
+  "answer": "a",
+  "explanation": "Scientific RAG evaluation rewards grounded, cautious, evidence-based answers. Confident claims beyond the evidence are undesirable."
+},
+{
+  "id": "8f4ba389-80e3-4209-ad63-12ada85ab874",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "195",
+  "question": "Which question best tests whether a RAG system can compare biomaterials appropriately?",
+  "options": {
+    "a": "Under what conditions might a natural hydrogel be preferred over a synthetic hydrogel, and what limitations remain?",
+    "b": "What is the first letter of hydrogel?",
+    "c": "What is the colour of a microscope?",
+    "d": "Which answer choice is shortest?"
+  },
+  "answer": "a",
+  "explanation": "Comparative questions test whether the system can evaluate trade-offs such as bioactivity, mechanical control, degradation, reproducibility, and application context."
+},
+{
+  "id": "ac6ad503-6f82-4d5d-a6e6-27132067e455",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "196",
+  "question": "Which statement best explains why source grounding matters in biomaterials question answering?",
+  "options": {
+    "a": "It helps ensure that answers are based on retrieved textbook or paper evidence rather than unsupported model memory",
+    "b": "It makes evidence irrelevant",
+    "c": "It guarantees every retrieved source is correct without checking",
+    "d": "It prevents users from asking follow-up questions"
+  },
+  "answer": "a",
+  "explanation": "Source grounding is central to RAG because it links answers to retrieved materials. This helps reduce unsupported claims, although retrieved evidence still needs critical interpretation."
+},
+{
+  "id": "3d2557d4-21e7-4377-b9ea-d95a8624f6ae",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "197",
+  "question": "Which limitation should be recognised when a RAG system retrieves only textbook-level information?",
+  "options": {
+    "a": "It may answer broad concepts but may not support detailed claims about recent experimental results",
+    "b": "It can automatically know every new paper without retrieval",
+    "c": "It no longer needs evidence",
+    "d": "It should invent recent findings"
+  },
+  "answer": "a",
+  "explanation": "Textbook-level retrieval can support foundational concepts but may not contain recent study-specific data. A RAG system should not invent missing experimental details."
+},
+{
+  "id": "0f49969d-0961-473c-bf71-9798c3333388",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "198",
+  "question": "Which evaluation outcome would suggest a retrieval problem rather than only a reasoning problem?",
+  "options": {
+    "a": "The model gives a weak answer because the retrieved chunks do not contain relevant information",
+    "b": "The retrieved chunks are directly relevant and complete, but the model ignores them",
+    "c": "The model correctly states uncertainty when evidence is missing",
+    "d": "The answer is supported by retrieved evidence"
+  },
+  "answer": "a",
+  "explanation": "If retrieved chunks lack relevant information, the issue may be retrieval coverage or indexing rather than only model reasoning. RAG evaluation should distinguish retrieval failures from generation failures."
+},
+{
+  "id": "5c7bc0b0-3f62-40ed-a390-c4e197785952",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "199",
+  "question": "Which response best shows that a RAG system understands uncertainty in biomaterials research?",
+  "options": {
+    "a": "It states what the evidence supports, what remains unclear, and what further evidence would be needed",
+    "b": "It always gives the most confident possible answer",
+    "c": "It ignores conflicting evidence",
+    "d": "It claims every material is clinically proven"
+  },
+  "answer": "a",
+  "explanation": "A strong RAG answer should separate supported findings from uncertain claims and identify what additional evidence would be needed, such as in vivo, long-term, or clinical data."
+},
+{
+  "id": "e7491da3-7596-43ed-a22c-e9440e0fb732",
+  "section": "Evidence Interpretation and RAG Evaluation",
+  "number": "200",
+  "question": "Which final judgement is most appropriate when evaluating whether a biomaterial is suitable for a specific application?",
+  "options": {
+    "a": "Suitability should be judged from material properties, biological response, application context, evidence quality, and relevant limitations",
+    "b": "Suitability is determined only by whether the material has a modern name",
+    "c": "Suitability is guaranteed if one property is favourable",
+    "d": "Suitability does not require considering tissue environment or evidence quality"
+  },
+  "answer": "a",
+  "explanation": "Biomaterial suitability is context-dependent. Mechanical, chemical, biological, manufacturing, degradation, safety, and evidence-quality factors should all be considered for the intended application."
 }
 ]
