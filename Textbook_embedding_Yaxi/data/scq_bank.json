@@ -1454,5 +1454,425 @@
   },
   "answer": "a",
   "explanation": "A good RAG evaluation question can test whether the system recognises limitations and avoids unsupported claims. Biofabrication has important promise, but fully replacing all native organs remains limited by challenges such as vascularisation, maturation, scale, and function."
+},
+  {
+  "id": "9dfb55e5-182a-4fc7-b7ab-715afe342d20",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "109",
+  "question": "Which property best explains why hydrogels are often used to mimic aspects of soft extracellular matrix?",
+  "options": {
+    "a": "They are water-rich polymer networks that can provide a hydrated microenvironment",
+    "b": "They are always harder than cortical bone",
+    "c": "They are always metallic and electrically conductive",
+    "d": "They cannot interact with cells or proteins"
+  },
+  "answer": "a",
+  "explanation": "Hydrogels are hydrated polymer networks. Their high water content and tunable chemistry make them useful for mimicking some features of soft extracellular matrix environments."
+},
+{
+  "id": "cf6b71c8-4b90-4eb7-9490-e7ef1a3e9d42",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "110",
+  "question": "Which limitation is commonly associated with many unmodified hydrogels in tissue engineering?",
+  "options": {
+    "a": "They usually have limited mechanical strength compared with load-bearing tissues",
+    "b": "They cannot contain water",
+    "c": "They always prevent nutrient diffusion",
+    "d": "They are always non-biocompatible"
+  },
+  "answer": "a",
+  "explanation": "Many hydrogels are biologically useful because they are hydrated and cell-compatible, but their mechanical strength may be insufficient for load-bearing applications unless reinforced or modified."
+},
+{
+  "id": "0f4a6472-4576-44e1-8493-e04780df0119",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "111",
+  "question": "Why is crosslinking important in hydrogel design?",
+  "options": {
+    "a": "It can control network stability, swelling, degradation, and mechanical behaviour",
+    "b": "It always makes the hydrogel toxic",
+    "c": "It removes all water from the hydrogel",
+    "d": "It prevents any cell-material interaction"
+  },
+  "answer": "a",
+  "explanation": "Crosslinking controls the structure of the hydrogel network. This affects swelling, stiffness, degradation, permeability, and sometimes cell compatibility."
+},
+{
+  "id": "6aa3673f-86ef-4686-8410-0d79f7a9b257",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "112",
+  "question": "Which statement best explains why collagen is widely used in biomaterials and tissue engineering?",
+  "options": {
+    "a": "It is a major extracellular matrix protein that can support cell adhesion and tissue organisation",
+    "b": "It is a synthetic metal alloy with high corrosion resistance",
+    "c": "It prevents all enzymatic degradation",
+    "d": "It is used only because it has no biological activity"
+  },
+  "answer": "a",
+  "explanation": "Collagen is a major ECM protein and can provide biological cues for cell adhesion, migration, and matrix organisation. However, its mechanical properties and degradation may need control."
+},
+{
+  "id": "57e362c0-4960-4dde-8dc1-e26759015b7a",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "113",
+  "question": "Which limitation should be considered when using collagen-based scaffolds?",
+  "options": {
+    "a": "Possible weak mechanical properties, rapid degradation, and source-dependent variability",
+    "b": "Complete absence of cell-interactive sites",
+    "c": "Inability to form any scaffold structure",
+    "d": "Permanent resistance to all biological remodelling"
+  },
+  "answer": "a",
+  "explanation": "Collagen is biologically active, but collagen scaffolds can have limited mechanical strength, enzymatic degradation, and variability depending on source and processing."
+},
+{
+  "id": "8d0c74c6-5746-49c2-bd60-a4ebd7282967",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "114",
+  "question": "Which statement best describes alginate as a biomaterial?",
+  "options": {
+    "a": "A polysaccharide that can form hydrogels, often through ionic crosslinking with divalent cations",
+    "b": "A metallic ceramic used mainly for hip bearings",
+    "c": "A protein that forms the triple helix of collagen",
+    "d": "A non-polymeric gas used for sterilisation only"
+  },
+  "answer": "a",
+  "explanation": "Alginate is a natural polysaccharide that can form hydrogels, commonly through ionic crosslinking with divalent ions such as calcium."
+},
+{
+  "id": "a2dbbb40-1771-4e21-8cf8-cfd8c692db2d",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "115",
+  "question": "Which is a common limitation of alginate hydrogels for cell-interactive tissue engineering applications?",
+  "options": {
+    "a": "Unmodified alginate has limited intrinsic cell-adhesive motifs",
+    "b": "Alginate cannot absorb water",
+    "c": "Alginate is always stronger than bone",
+    "d": "Alginate is only found in mammalian bone matrix"
+  },
+  "answer": "a",
+  "explanation": "Alginate can form useful hydrogels, but unmodified alginate generally lacks strong cell-adhesive motifs. It is often modified or combined with bioactive molecules to improve cell interactions."
+},
+{
+  "id": "c61d913f-0636-4a1e-9ae8-6722e4ec05e1",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "116",
+  "question": "Why is chitosan often discussed for cartilage or wound-related biomaterials?",
+  "options": {
+    "a": "It is a natural polysaccharide with structural similarity to glycosaminoglycans and can support certain biological interactions",
+    "b": "It is a bioinert metal used only for electrical wiring",
+    "c": "It cannot be processed into gels or scaffolds",
+    "d": "It is produced only by mineralising hydroxyapatite"
+  },
+  "answer": "a",
+  "explanation": "Chitosan is derived from chitin and has structural similarity to glycosaminoglycans. This makes it relevant for cartilage, wound healing, and scaffold-related applications."
+},
+{
+  "id": "2027f479-1c9b-4768-ae8e-66fa950fecec",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "117",
+  "question": "Which statement best explains why gelatin can be useful as a biomaterial?",
+  "options": {
+    "a": "It is derived from collagen and can retain some cell-interactive features while being easier to process",
+    "b": "It is a calcium phosphate ceramic used only in bone cement",
+    "c": "It is completely non-degradable in all biological environments",
+    "d": "It cannot form hydrogels"
+  },
+  "answer": "a",
+  "explanation": "Gelatin is derived from collagen and is commonly used because it is relatively processable and can provide biological cues. Its stability often requires crosslinking or modification."
+},
+{
+  "id": "c9edfcfa-11f7-4bf7-87e8-59b79212d00a",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "118",
+  "question": "Which condition-sensitive statement about hydrogel swelling is most accurate?",
+  "options": {
+    "a": "Swelling depends on polymer chemistry, crosslinking density, ionic environment, and water availability",
+    "b": "Swelling is always identical in every physiological environment",
+    "c": "Swelling is determined only by the colour of the gel",
+    "d": "Swelling cannot affect mechanical behaviour"
+  },
+  "answer": "a",
+  "explanation": "Hydrogel swelling is context-dependent. Polymer chemistry, crosslink density, pH, ionic strength, and surrounding fluid conditions can all influence swelling and mechanical properties."
+},
+{
+  "id": "51ca7808-6023-4d49-81b8-7b8c1fedba23",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "119",
+  "question": "Which option best compares natural and synthetic hydrogels for tissue engineering?",
+  "options": {
+    "a": "Natural hydrogels may provide biological cues, while synthetic hydrogels often offer more controllable chemistry and mechanics",
+    "b": "Natural hydrogels are always mechanically stronger than all synthetic hydrogels",
+    "c": "Synthetic hydrogels always contain native ECM binding sites without modification",
+    "d": "Both natural and synthetic hydrogels are unsuitable for any biomedical use"
+  },
+  "answer": "a",
+  "explanation": "Natural hydrogels can provide biological recognition signals, while synthetic hydrogels may offer better control over structure, degradation, and mechanics. Both categories have advantages and limitations."
+},
+{
+  "id": "7e944e06-c9e5-40ac-9806-3d41055c0aaa",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "120",
+  "question": "Which evidence would best support a claim that a hydrogel improves chondrogenic differentiation?",
+  "options": {
+    "a": "Increased cartilage-related markers compared with an appropriate control group",
+    "b": "A statement that the hydrogel is visually transparent",
+    "c": "The brand name of the culture dish",
+    "d": "A photograph of the unopened reagent bottle"
+  },
+  "answer": "a",
+  "explanation": "Claims about chondrogenic differentiation should be supported by relevant markers, such as cartilage matrix production or gene/protein expression, compared with proper controls."
+},
+{
+  "id": "da0a9bb2-5dd9-4511-a12d-53396f9b39cc",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "121",
+  "question": "Which statement best explains why degradability can be beneficial in a hydrogel scaffold?",
+  "options": {
+    "a": "Controlled degradation can allow gradual replacement by newly formed tissue",
+    "b": "All hydrogels should disappear before implantation",
+    "c": "Degradation always prevents tissue formation",
+    "d": "Degradability means the material cannot be biocompatible"
+  },
+  "answer": "a",
+  "explanation": "Controlled degradation can help a scaffold provide early support and later create space for tissue deposition and remodelling. The degradation rate must match the intended application."
+},
+{
+  "id": "ef14af0d-9467-4484-aec7-44c390ed30bc",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "122",
+  "question": "Which feature is most important when using a hydrogel for controlled drug delivery?",
+  "options": {
+    "a": "Ability to regulate drug loading and release kinetics",
+    "b": "Complete inability to absorb fluid",
+    "c": "Maximum brittleness under all conditions",
+    "d": "Absence of any polymer network"
+  },
+  "answer": "a",
+  "explanation": "Hydrogels can be designed for drug delivery by controlling swelling, mesh size, degradation, and interactions with the drug, which influence release kinetics."
+},
+{
+  "id": "5a3be12c-6060-4d06-8dce-9d4a3d51bf94",
+  "section": "Hydrogels and Natural Biomaterials",
+  "number": "123",
+  "question": "Which uncertainty should a RAG system recognise when asked whether one hydrogel is superior to another?",
+  "options": {
+    "a": "Superiority depends on application, cell type, mechanical requirements, degradation, and outcome measures",
+    "b": "One hydrogel must be superior in every possible biomedical context",
+    "c": "Hydrogels can only be compared by their colour",
+    "d": "Application context is irrelevant for material selection"
+  },
+  "answer": "a",
+  "explanation": "Material comparison is context-dependent. A RAG system should avoid overclaiming and recognise that the best hydrogel depends on the intended tissue, cell type, mechanical demands, degradation profile, and evaluation metrics."
+},
+{
+  "id": "1a63cf1b-7277-4895-86e0-3812cbdfb4ec",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "124",
+  "question": "Which statement best explains why hydroxyapatite is used in bone-related biomaterials?",
+  "options": {
+    "a": "It chemically resembles the mineral phase of bone and can support bone bonding",
+    "b": "It is a soft hydrogel used only for nerve repair",
+    "c": "It is a synthetic elastomer used only for heart valves",
+    "d": "It prevents any interaction with bone tissue"
+  },
+  "answer": "a",
+  "explanation": "Hydroxyapatite is chemically similar to the mineral component of bone, which helps explain its use in bone repair, coatings, and osteoconductive biomaterials."
+},
+{
+  "id": "0b09a928-61d2-4cf8-a3ce-86e783ac7ba5",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "125",
+  "question": "Which limitation is most relevant for using hydroxyapatite as a structural load-bearing implant by itself?",
+  "options": {
+    "a": "Brittleness and limited fracture toughness",
+    "b": "Excessive elasticity like rubber",
+    "c": "Complete solubility in water within seconds",
+    "d": "Lack of any calcium or phosphate content"
+  },
+  "answer": "a",
+  "explanation": "Hydroxyapatite is bioactive and bone-like, but it is brittle and has limited fracture toughness, which can restrict its use as a standalone load-bearing implant."
+},
+{
+  "id": "c5e2fd99-7b47-4cc2-bc54-e22f7289d909",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "126",
+  "question": "Which option best describes osteoconduction?",
+  "options": {
+    "a": "A material property that supports bone growth along its surface or structure",
+    "b": "The ability to generate an electrical current in muscle",
+    "c": "The process of preventing all cell attachment",
+    "d": "The conversion of a polymer into a metal"
+  },
+  "answer": "a",
+  "explanation": "Osteoconduction refers to the ability of a material to support bone growth on or through its structure. It is different from osteoinduction, which involves inducing progenitor cells toward bone formation."
+},
+{
+  "id": "fbb7885f-e715-46e8-908a-5d14323f19ff",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "127",
+  "question": "Which option best describes osteoinduction?",
+  "options": {
+    "a": "The ability to induce undifferentiated or progenitor cells to become bone-forming cells",
+    "b": "The ability to block all bone formation",
+    "c": "The passive transport of water through a hydrogel",
+    "d": "The complete absence of biological signalling"
+  },
+  "answer": "a",
+  "explanation": "Osteoinduction refers to the ability to stimulate progenitor cells toward osteogenic differentiation. It is a stronger biological claim than simple osteoconduction."
+},
+{
+  "id": "a4310870-7b4c-4bd5-97e9-0d5d733dd65c",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "128",
+  "question": "Which evidence would best support a claim that a biomaterial is osteoinductive?",
+  "options": {
+    "a": "Evidence of osteogenic differentiation or ectopic bone formation under appropriate experimental conditions",
+    "b": "The material being white in colour",
+    "c": "The material being stored in a plastic tube",
+    "d": "A statement that the material is hard"
+  },
+  "answer": "a",
+  "explanation": "Osteoinduction requires evidence that the material can induce osteogenic differentiation or bone formation, not merely that it is hard or bone-coloured."
+},
+{
+  "id": "b5010535-dfd3-45da-b6f3-22c6c0fd281d",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "129",
+  "question": "Which statement best compares bioinert and bioactive ceramics?",
+  "options": {
+    "a": "Bioactive ceramics can form bonding interactions with tissue, while bioinert ceramics are designed to have minimal chemical interaction",
+    "b": "Bioinert ceramics always dissolve instantly in the body",
+    "c": "Bioactive ceramics are never used near bone",
+    "d": "Both terms mean exactly the same thing"
+  },
+  "answer": "a",
+  "explanation": "Bioactive ceramics are intended to interact with tissue and may bond to bone. Bioinert ceramics are relatively stable and have limited direct chemical bonding with tissue."
+},
+{
+  "id": "d96c51a3-42a0-4c90-8d92-2a3840b7dba9",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "130",
+  "question": "Which ceramic is commonly associated with high wear resistance in orthopaedic bearing applications?",
+  "options": {
+    "a": "Alumina",
+    "b": "Gelatin",
+    "c": "Alginate",
+    "d": "Collagen"
+  },
+  "answer": "a",
+  "explanation": "Alumina is a bioinert ceramic known for hardness and wear resistance, making it relevant to certain orthopaedic bearing applications."
+},
+{
+  "id": "e3029023-3684-403c-bce5-b51168f86406",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "131",
+  "question": "Which statement best explains the use of bioactive glass in bone repair?",
+  "options": {
+    "a": "It can form a surface layer that supports bonding with bone tissue",
+    "b": "It is used only because it prevents all protein adsorption",
+    "c": "It is a natural protein identical to collagen",
+    "d": "It cannot release any ions in biological environments"
+  },
+  "answer": "a",
+  "explanation": "Bioactive glass can interact with biological fluids and form a surface apatite-like layer, supporting bonding with bone tissue."
+},
+{
+  "id": "6f296d86-5474-4d32-ad47-53e5b2695e02",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "132",
+  "question": "Which factor is most important when selecting a calcium phosphate material for bone regeneration?",
+  "options": {
+    "a": "Its balance of bioactivity, resorption rate, mechanical properties, and intended clinical site",
+    "b": "Its colour only",
+    "c": "Its ability to prevent all tissue contact",
+    "d": "Its use as a liquid fuel"
+  },
+  "answer": "a",
+  "explanation": "Calcium phosphate selection depends on the intended application. Bioactivity, degradation or resorption rate, mechanical stability, and defect environment all matter."
+},
+{
+  "id": "734a3229-281e-4d50-b3e1-5b11d1537e48",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "133",
+  "question": "Which condition-sensitive statement about ceramic resorption is most accurate?",
+  "options": {
+    "a": "Resorption can be beneficial if it matches the rate of new bone formation",
+    "b": "Faster resorption is always better in every bone defect",
+    "c": "Resorption rate has no influence on bone repair",
+    "d": "Ceramics cannot undergo any biological or chemical change"
+  },
+  "answer": "a",
+  "explanation": "Controlled resorption can allow gradual replacement by bone. If resorption is too fast or too slow, mechanical support and tissue regeneration may be compromised."
+},
+{
+  "id": "d3e0512e-cd4d-4f2b-841b-546c08e663c9",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "134",
+  "question": "Why are hydroxyapatite coatings used on some metallic implants?",
+  "options": {
+    "a": "To combine the mechanical strength of metal with a more bone-interactive surface",
+    "b": "To make the implant completely flexible like cartilage",
+    "c": "To prevent any bone contact",
+    "d": "To turn the metal into a drug-free hydrogel"
+  },
+  "answer": "a",
+  "explanation": "Metallic implants provide mechanical strength, while hydroxyapatite coatings can improve bone interaction and osseointegration at the surface."
+},
+{
+  "id": "dbb877e2-6083-4c88-8645-aec2d072cb19",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "135",
+  "question": "Which statement best explains why pore structure matters in bioceramic scaffolds for bone repair?",
+  "options": {
+    "a": "Pores can support cell infiltration, vascular ingrowth, and bone tissue formation",
+    "b": "Pores always prevent all tissue ingrowth",
+    "c": "Pores are relevant only to electronic circuits",
+    "d": "Pores make biological evaluation unnecessary"
+  },
+  "answer": "a",
+  "explanation": "Porous bioceramic scaffolds can support bone ingrowth and vascularisation, although pore size and interconnectivity must be balanced with mechanical strength."
+},
+{
+  "id": "efcb842b-a87c-45c6-89dc-f73b933f6114",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "136",
+  "question": "Which outcome would be most relevant for evaluating osseointegration of a bone implant?",
+  "options": {
+    "a": "Direct structural and functional connection between bone and implant surface",
+    "b": "The colour of the implant packaging",
+    "c": "The number of words in the product name",
+    "d": "Whether the implant floats in air"
+  },
+  "answer": "a",
+  "explanation": "Osseointegration refers to a direct structural and functional connection between living bone and an implant surface. It is relevant for bone-anchored implants."
+},
+{
+  "id": "b3bbcae2-75e7-4d21-9dac-e44d9a70c86c",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "137",
+  "question": "Which statement should a RAG system avoid when evidence is limited to in vitro mineralisation assays?",
+  "options": {
+    "a": "Claiming that the material is proven to regenerate large human bone defects clinically",
+    "b": "Stating that the assay may suggest osteogenic potential under tested conditions",
+    "c": "Mentioning that further in vivo or clinical evidence may be needed",
+    "d": "Recognising that in vitro results are condition-dependent"
+  },
+  "answer": "a",
+  "explanation": "In vitro mineralisation can support early evidence, but it does not by itself prove clinical regeneration of large human bone defects. A RAG system should avoid overclaiming beyond the evidence."
+},
+{
+  "id": "e25d1f8e-f3c0-478c-aad6-48e6800d857f",
+  "section": "Bioceramics and Bone Regeneration",
+  "number": "138",
+  "question": "Which comparison between hydroxyapatite and bioactive glass is most accurate?",
+  "options": {
+    "a": "Both can be used in bone-related biomaterials, but their dissolution behaviour, ion release, and biological responses may differ",
+    "b": "Both are identical proteins found in cartilage",
+    "c": "Hydroxyapatite is a metal, while bioactive glass is a living cell",
+    "d": "Neither has any relevance to bone repair"
+  },
+  "answer": "a",
+  "explanation": "Hydroxyapatite and bioactive glass are both relevant to bone repair, but they are not identical. Their chemistry, dissolution, ion release, and tissue responses can differ."
 }
 ]
