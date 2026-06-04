@@ -1445,7 +1445,7 @@
   "id": "b341fd1b-9ef2-463a-bb18-60fda5152cb1",
   "section": "Biofabrication and 3D Printing",
   "number": "108",
-  "question": "Which type of question best tests whether a RAG system can avoid overclaiming in biofabrication?",
+  "question": "Which type of question best tests whether a scientific answer avoids overclaiming in biofabrication?",
   "options": {
     "a": "A question asking whether current printed constructs fully replace all native organs without limitations",
     "b": "A question asking only for the spelling of the word scaffold",
@@ -1453,7 +1453,7 @@
     "d": "A question that has no relation to biomaterials"
   },
   "answer": "a",
-  "explanation": "A good RAG evaluation question can test whether the system recognises limitations and avoids unsupported claims. Biofabrication has important promise, but fully replacing all native organs remains limited by challenges such as vascularisation, maturation, scale, and function."
+  "explanation": "A good scientific evaluation question can test whether an answer recognises limitations and avoids unsupported claims. Biofabrication has important promise, but fully replacing all native organs remains limited by challenges such as vascularisation, maturation, scale, and function."
 },
   {
   "id": "9dfb55e5-182a-4fc7-b7ab-715afe342d20",
@@ -1655,7 +1655,7 @@
   "id": "5a3be12c-6060-4d06-8dce-9d4a3d51bf94",
   "section": "Hydrogels and Natural Biomaterials",
   "number": "123",
-  "question": "Which uncertainty should a RAG system recognise when asked whether one hydrogel is superior to another?",
+  "question": "Which uncertainty should be recognised when asked whether one hydrogel is superior to another?",
   "options": {
     "a": "Superiority depends on application, cell type, mechanical requirements, degradation, and outcome measures",
     "b": "One hydrogel must be superior in every possible biomedical context",
@@ -1663,7 +1663,7 @@
     "d": "Application context is irrelevant for material selection"
   },
   "answer": "a",
-  "explanation": "Material comparison is context-dependent. A RAG system should avoid overclaiming and recognise that the best hydrogel depends on the intended tissue, cell type, mechanical demands, degradation profile, and evaluation metrics."
+  "explanation": "Material comparison is context-dependent. A careful answer should avoid overclaiming and recognise that the best hydrogel depends on the intended tissue, cell type, mechanical demands, degradation profile, and evaluation metrics."
 },
 {
   "id": "1a63cf1b-7277-4895-86e0-3812cbdfb4ec",
@@ -1851,7 +1851,7 @@
   "id": "b3bbcae2-75e7-4d21-9dac-e44d9a70c86c",
   "section": "Bioceramics and Bone Regeneration",
   "number": "137",
-  "question": "Which statement should a RAG system avoid when evidence is limited to in vitro mineralisation assays?",
+  "question": "Which statement should be avoided when evidence is limited to in vitro mineralisation assays?",
   "options": {
     "a": "Claiming that the material is proven to regenerate large human bone defects clinically",
     "b": "Stating that the assay may suggest osteogenic potential under tested conditions",
@@ -1859,7 +1859,7 @@
     "d": "Recognising that in vitro results are condition-dependent"
   },
   "answer": "a",
-  "explanation": "In vitro mineralisation can support early evidence, but it does not by itself prove clinical regeneration of large human bone defects. A RAG system should avoid overclaiming beyond the evidence."
+  "explanation": "In vitro mineralisation can support early evidence, but it does not by itself prove clinical regeneration of large human bone defects. Scientific interpretation should avoid overclaiming beyond the available evidence."
 },
 {
   "id": "e25d1f8e-f3c0-478c-aad6-48e6800d857f",
@@ -2047,7 +2047,7 @@
   "id": "f06bd5e7-1c58-4fdd-95c2-8d8b988dfdaa",
   "section": "Implant Failure and Host Response",
   "number": "151",
-  "question": "Which interpretation should a RAG system avoid when a study reports only short-term low cytotoxicity in vitro?",
+  "question": "Which interpretation should be avoided when a study reports only short-term low cytotoxicity in vitro?",
   "options": {
     "a": "Claiming the material is proven safe for long-term human implantation",
     "b": "Stating that short-term cytotoxicity appeared low under the tested conditions",
@@ -2055,7 +2055,7 @@
     "d": "Recognising that in vitro findings are limited by experimental conditions"
   },
   "answer": "a",
-  "explanation": "Short-term in vitro cytotoxicity data cannot by itself prove long-term clinical safety. A RAG system should avoid overclaiming beyond the available evidence."
+  "explanation": "Short-term in vitro cytotoxicity data cannot by itself prove long-term clinical safety. Scientific interpretation should avoid overclaiming beyond the available evidence."
 },
 {
   "id": "1c7ccda3-e4fd-44a8-a609-fde4a55db6b1",
@@ -2229,7 +2229,7 @@
   "id": "6e27d749-cb38-4dd2-9e4d-392bf976d9ef",
   "section": "Antibacterial Biomaterials",
   "number": "164",
-  "question": "Which interpretation should a RAG system avoid if a material reduces one bacterial strain in vitro but lacks mammalian cell data?",
+  "question": "Which interpretation should be avoided if a material reduces one bacterial strain in vitro but lacks mammalian cell data?",
   "options": {
     "a": "Claiming the material is clinically safe and broadly antibacterial for all applications",
     "b": "Stating that antibacterial activity was observed under the tested in vitro condition",
@@ -2237,7 +2237,7 @@
     "d": "Recognising that the conclusion is limited by the tested strain and assay"
   },
   "answer": "a",
-  "explanation": "A single in vitro antibacterial result does not prove clinical safety or broad-spectrum activity. A RAG system should avoid unsupported generalisation."
+  "explanation": "A single in vitro antibacterial result does not prove clinical safety or broad-spectrum activity. Scientific interpretation should avoid unsupported generalisation."
 },
 {
   "id": "4c90dc24-d3ff-4f98-a022-24da814106a8",
@@ -2481,7 +2481,7 @@
   "id": "8ff3ca91-8877-4c33-8b55-03dbe0f8ad13",
   "section": "Drug Delivery Biomaterials",
   "number": "182",
-  "question": "Which uncertainty should a RAG system recognise when comparing two drug delivery materials?",
+  "question": "Which uncertainty should be recognised when comparing two drug delivery materials?",
   "options": {
     "a": "The better material depends on drug type, target tissue, release profile, toxicity, and intended application",
     "b": "One delivery material must be best for every drug and every tissue",
@@ -2521,23 +2521,23 @@
 },
 {
   "id": "3fb201fd-9b42-463d-8d81-674282422ca8",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "185",
-  "question": "Which behaviour is most appropriate for a RAG system when retrieved evidence is insufficient to answer a question?",
+  "question": "Which behaviour is most appropriate when available evidence is insufficient to support a biomaterials conclusion?",
   "options": {
     "a": "State that the evidence is insufficient rather than inventing an unsupported answer",
-    "b": "Generate a confident answer without evidence",
-    "c": "Ignore the retrieved context completely",
+    "b": "Generate a confident conclusion without evidence",
+    "c": "Ignore the available context completely",
     "d": "Always choose the longest possible answer"
   },
   "answer": "a",
-  "explanation": "A RAG system should ground answers in retrieved evidence. When evidence is insufficient, it should communicate uncertainty rather than hallucinating unsupported claims."
+  "explanation": "Scientific biomaterials conclusions should be grounded in available evidence. When evidence is insufficient, the limitation should be stated rather than replacing it with unsupported claims."
 },
 {
   "id": "1cb5e239-8500-40d6-a74c-e04924cdbd57",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "186",
-  "question": "Which question best tests whether a RAG system can synthesise evidence rather than only retrieve a definition?",
+  "question": "Which question best tests whether an answer can synthesise biomaterials concepts rather than only recall a definition?",
   "options": {
     "a": "Which scaffold design factors must be balanced to support cell infiltration while maintaining mechanical strength?",
     "b": "How many letters are in the word bone?",
@@ -2549,7 +2549,7 @@
 },
 {
   "id": "16ed6f72-b401-49bb-b8b4-bec4f4074783",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "187",
   "question": "Which answer style is most appropriate when evidence from different studies conflicts?",
   "options": {
@@ -2563,21 +2563,21 @@
 },
 {
   "id": "b4be2a03-0b4b-4541-9c25-4877ea3dd92a",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "188",
-  "question": "Which statement best describes hallucination in a RAG-based scientific answer?",
+  "question": "Which statement best describes an unsupported scientific claim in biomaterials interpretation?",
   "options": {
-    "a": "Presenting unsupported or invented information as if it were supported by evidence",
-    "b": "Citing relevant retrieved evidence accurately",
+    "a": "Presenting invented or unsupported information as if it were supported by evidence",
+    "b": "Using relevant evidence accurately",
     "c": "Saying that evidence is insufficient when it is insufficient",
-    "d": "Comparing two materials using retrieved data"
+    "d": "Comparing two materials using available data"
   },
   "answer": "a",
-  "explanation": "Hallucination occurs when a model generates unsupported or fabricated content. In scientific RAG, this is especially problematic because answers should be grounded in evidence."
+  "explanation": "An unsupported scientific claim occurs when a conclusion is presented without adequate evidence. In biomaterials, this is problematic because material performance is context-dependent and should be evidence-based."
 },
 {
   "id": "34f81d4e-cf02-4469-841b-f03cf9bc90f7",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "189",
   "question": "Which evidence would be strongest for claiming clinical effectiveness of a biomaterial implant?",
   "options": {
@@ -2591,7 +2591,7 @@
 },
 {
   "id": "5fe834d6-13cb-48e7-9097-f3075659a595",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "190",
   "question": "Which statement best reflects appropriate caution when interpreting in vitro biomaterials data?",
   "options": {
@@ -2605,7 +2605,7 @@
 },
 {
   "id": "23d61f45-c2e1-4796-97f6-e6959d603620",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "191",
   "question": "Which factor can make direct comparison between two biomaterial studies difficult?",
   "options": {
@@ -2619,21 +2619,21 @@
 },
 {
   "id": "9dc6bbd6-ad18-4116-8502-0ffeff490e49",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "192",
-  "question": "Which response is most appropriate if a question asks for a numerical value that is not present in the retrieved context?",
+  "question": "Which response is most appropriate if a question asks for a numerical value that is not present in the available evidence?",
   "options": {
-    "a": "State that the retrieved evidence does not provide the value",
+    "a": "State that the available evidence does not provide the value",
     "b": "Invent a plausible-looking number",
     "c": "Use a number from an unrelated topic",
     "d": "Always answer 100%"
   },
   "answer": "a",
-  "explanation": "A grounded RAG system should not fabricate numerical values. If the retrieved context lacks the requested data, it should state the limitation."
+  "explanation": "A scientific answer should not fabricate numerical values. If the available evidence lacks the requested data, the limitation should be stated clearly."
 },
 {
   "id": "751a0fd1-0620-4c3c-9cf4-7793e8a69f01",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "193",
   "question": "Which option best describes a condition-sensitive biomaterials question?",
   "options": {
@@ -2647,23 +2647,23 @@
 },
 {
   "id": "9ebf3a15-8fae-4245-9b40-0c0bfdf84cf3",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "194",
-  "question": "Which answer would be least appropriate in a scientific RAG evaluation?",
+  "question": "Which answer would be least appropriate in scientific biomaterials interpretation?",
   "options": {
-    "a": "A confident claim that goes beyond the retrieved evidence",
+    "a": "A confident claim that goes beyond the available evidence",
     "b": "An answer that cites relevant limitations",
     "c": "An answer that distinguishes in vitro and in vivo evidence",
     "d": "An answer that states uncertainty when evidence is missing"
   },
   "answer": "a",
-  "explanation": "Scientific RAG evaluation rewards grounded, cautious, evidence-based answers. Confident claims beyond the evidence are undesirable."
+  "explanation": "Scientific biomaterials interpretation should be grounded, cautious, and evidence-based. Confident claims beyond the evidence are undesirable."
 },
 {
   "id": "8f4ba389-80e3-4209-ad63-12ada85ab874",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "195",
-  "question": "Which question best tests whether a RAG system can compare biomaterials appropriately?",
+  "question": "Which question best tests whether biomaterials can be compared appropriately?",
   "options": {
     "a": "Under what conditions might a natural hydrogel be preferred over a synthetic hydrogel, and what limitations remain?",
     "b": "What is the first letter of hydrogel?",
@@ -2671,55 +2671,55 @@
     "d": "Which answer choice is shortest?"
   },
   "answer": "a",
-  "explanation": "Comparative questions test whether the system can evaluate trade-offs such as bioactivity, mechanical control, degradation, reproducibility, and application context."
+  "explanation": "Comparative questions test whether trade-offs such as bioactivity, mechanical control, degradation, reproducibility, and application context can be evaluated."
 },
 {
   "id": "ac6ad503-6f82-4d5d-a6e6-27132067e455",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "196",
-  "question": "Which statement best explains why source grounding matters in biomaterials question answering?",
+  "question": "Which statement best explains why evidence grounding matters in biomaterials question answering?",
   "options": {
-    "a": "It helps ensure that answers are based on retrieved textbook or paper evidence rather than unsupported model memory",
+    "a": "It helps ensure that answers are based on textbook or paper evidence rather than unsupported memory or assumption",
     "b": "It makes evidence irrelevant",
-    "c": "It guarantees every retrieved source is correct without checking",
+    "c": "It guarantees every source is correct without critical checking",
     "d": "It prevents users from asking follow-up questions"
   },
   "answer": "a",
-  "explanation": "Source grounding is central to RAG because it links answers to retrieved materials. This helps reduce unsupported claims, although retrieved evidence still needs critical interpretation."
+  "explanation": "Evidence grounding links answers to source material. This helps reduce unsupported claims, although the evidence itself still needs critical interpretation."
 },
 {
   "id": "3d2557d4-21e7-4377-b9ea-d95a8624f6ae",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "197",
-  "question": "Which limitation should be recognised when a RAG system retrieves only textbook-level information?",
+  "question": "Which limitation should be recognised when only textbook-level information is available?",
   "options": {
-    "a": "It may answer broad concepts but may not support detailed claims about recent experimental results",
-    "b": "It can automatically know every new paper without retrieval",
-    "c": "It no longer needs evidence",
-    "d": "It should invent recent findings"
+    "a": "It may support broad concepts but may not justify detailed claims about recent experimental results",
+    "b": "It automatically includes every new paper",
+    "c": "It removes the need for evidence",
+    "d": "It should be used to invent recent findings"
   },
   "answer": "a",
-  "explanation": "Textbook-level retrieval can support foundational concepts but may not contain recent study-specific data. A RAG system should not invent missing experimental details."
+  "explanation": "Textbook-level information can support foundational concepts but may not contain recent study-specific data. Missing experimental details should not be invented."
 },
 {
   "id": "0f49969d-0961-473c-bf71-9798c3333388",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "198",
-  "question": "Which evaluation outcome would suggest a retrieval problem rather than only a reasoning problem?",
+  "question": "Which evaluation outcome would suggest an evidence coverage problem rather than only a reasoning problem?",
   "options": {
-    "a": "The model gives a weak answer because the retrieved chunks do not contain relevant information",
-    "b": "The retrieved chunks are directly relevant and complete, but the model ignores them",
-    "c": "The model correctly states uncertainty when evidence is missing",
-    "d": "The answer is supported by retrieved evidence"
+    "a": "The answer is weak because the available source material does not contain relevant information",
+    "b": "The available source material is directly relevant and complete, but the answer ignores it",
+    "c": "The answer correctly states uncertainty when evidence is missing",
+    "d": "The answer is supported by available evidence"
   },
   "answer": "a",
-  "explanation": "If retrieved chunks lack relevant information, the issue may be retrieval coverage or indexing rather than only model reasoning. RAG evaluation should distinguish retrieval failures from generation failures."
+  "explanation": "If the available source material lacks relevant information, the issue may be evidence coverage rather than only reasoning. Evaluation should distinguish missing evidence from poor interpretation of available evidence."
 },
 {
   "id": "5c7bc0b0-3f62-40ed-a390-c4e197785952",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "199",
-  "question": "Which response best shows that a RAG system understands uncertainty in biomaterials research?",
+  "question": "Which response best shows appropriate handling of uncertainty in biomaterials research?",
   "options": {
     "a": "It states what the evidence supports, what remains unclear, and what further evidence would be needed",
     "b": "It always gives the most confident possible answer",
@@ -2727,11 +2727,11 @@
     "d": "It claims every material is clinically proven"
   },
   "answer": "a",
-  "explanation": "A strong RAG answer should separate supported findings from uncertain claims and identify what additional evidence would be needed, such as in vivo, long-term, or clinical data."
+  "explanation": "A strong scientific answer should separate supported findings from uncertain claims and identify what additional evidence would be needed, such as in vivo, long-term, or clinical data."
 },
 {
   "id": "e7491da3-7596-43ed-a22c-e9440e0fb732",
-  "section": "Evidence Interpretation and RAG Evaluation",
+  "section": "Evidence Interpretation in Biomaterials",
   "number": "200",
   "question": "Which final judgement is most appropriate when evaluating whether a biomaterial is suitable for a specific application?",
   "options": {
