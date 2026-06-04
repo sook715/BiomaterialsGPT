@@ -1034,5 +1034,425 @@
     },
     "answer": "a",
     "explanation": "Cartilage is the main focus of the technique named autologous chondrocyte transplantation (ACT). In the ACT, chondrocytes are isolated from the biopsy of healthy cartilage and cultured in vitro for a few weeks to reach a sufficient number of cells."
-  }
+  },
+  {
+  "id": "3f6a9e31-4e62-4f3b-a94c-0e6d06b7b101",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "79",
+  "question": "Which feature is most directly required for a scaffold to support tissue regeneration rather than simply occupy space?",
+  "options": {
+    "a": "High density and complete impermeability",
+    "b": "A structure that supports cell attachment, migration, and extracellular matrix formation",
+    "c": "Maximum stiffness regardless of target tissue",
+    "d": "A surface that prevents all protein adsorption"
+  },
+  "answer": "b",
+  "explanation": "A tissue engineering scaffold should provide a temporary structure that supports cell attachment, migration, proliferation, and extracellular matrix deposition. Complete impermeability or excessive stiffness may prevent tissue integration."
+},
+{
+  "id": "912bd3d4-8c2d-4f94-9c31-bd635ff5c604",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "80",
+  "question": "Why is scaffold porosity important in tissue engineering applications?",
+  "options": {
+    "a": "It prevents cells from entering the scaffold",
+    "b": "It allows nutrient transport, waste removal, and cell infiltration",
+    "c": "It makes all scaffolds mechanically stronger",
+    "d": "It eliminates the need for vascularisation"
+  },
+  "answer": "b",
+  "explanation": "Porosity is important because pores allow cells to migrate into the scaffold and permit diffusion of nutrients, oxygen, and waste products. However, high porosity can reduce mechanical strength, so a balance is required."
+},
+{
+  "id": "e786bc95-0456-4d37-9df8-74085e90a662",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "81",
+  "question": "Which statement best explains why scaffold degradation rate must be controlled?",
+  "options": {
+    "a": "The scaffold should always degrade before cells attach",
+    "b": "The scaffold should remain permanently without any tissue replacement",
+    "c": "The scaffold should degrade at a rate that matches new tissue formation",
+    "d": "The scaffold should degrade only when exposed to ultraviolet light"
+  },
+  "answer": "c",
+  "explanation": "An appropriate degradation rate allows the scaffold to provide support during early regeneration and gradually transfer load or space to newly formed tissue. Too rapid or too slow degradation can impair regeneration."
+},
+{
+  "id": "cd3f716c-6e7f-4e74-a944-2aa22465e308",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "82",
+  "question": "Which material property is especially important when designing a scaffold for load-bearing bone repair?",
+  "options": {
+    "a": "Mechanical strength and stiffness suitable for the bone environment",
+    "b": "Complete optical transparency",
+    "c": "Ability to dissolve instantly in water",
+    "d": "Absence of any pore structure"
+  },
+  "answer": "a",
+  "explanation": "For load-bearing bone repair, the scaffold must have sufficient mechanical properties to tolerate the local mechanical environment while supporting bone tissue formation. Optical transparency is not the main design requirement."
+},
+{
+  "id": "0af64c8e-cc33-4b62-a4c1-9ee095f7c618",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "83",
+  "question": "Which statement best describes the role of growth factors in tissue engineering scaffolds?",
+  "options": {
+    "a": "They mainly act as structural fillers with no biological function",
+    "b": "They can provide biochemical signals that influence cell behaviour and tissue formation",
+    "c": "They are used only to increase scaffold density",
+    "d": "They prevent all immune responses after implantation"
+  },
+  "answer": "b",
+  "explanation": "Growth factors can regulate cell proliferation, migration, differentiation, and matrix production. They do not simply act as structural fillers and they do not guarantee absence of immune response."
+},
+{
+  "id": "d9d6f78a-f470-4d5d-bd4f-2e02ccbf8d23",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "84",
+  "question": "Which option best explains a key limitation of using natural polymers as scaffolds?",
+  "options": {
+    "a": "They never interact with cells",
+    "b": "They always have identical mechanical properties between batches",
+    "c": "They may have weaker mechanical properties and batch-to-batch variability",
+    "d": "They cannot be degraded by biological systems"
+  },
+  "answer": "c",
+  "explanation": "Natural polymers can provide biological cues for cells, but they may have limited mechanical strength, variable composition, and possible immunogenicity depending on source and processing."
+},
+{
+  "id": "11fa4b18-69dc-40c2-8f3c-0ac1d8bc4f6d",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "85",
+  "question": "Which option best explains a key advantage of synthetic polymers in scaffold design?",
+  "options": {
+    "a": "Their chemistry, degradation rate, and mechanical properties can often be controlled during fabrication",
+    "b": "They always contain natural cell-binding motifs",
+    "c": "They never require sterilisation",
+    "d": "They are always more bioactive than natural extracellular matrix proteins"
+  },
+  "answer": "a",
+  "explanation": "Synthetic polymers are useful because their structure, degradation behaviour, and mechanical properties can often be tuned. However, they may lack natural biological recognition sites unless modified."
+},
+{
+  "id": "55d8c59a-9952-4ec7-8cf5-f2c49de44f40",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "86",
+  "question": "Why is matching scaffold stiffness to the target tissue important?",
+  "options": {
+    "a": "Cell behaviour can be influenced by the mechanical properties of the surrounding matrix",
+    "b": "Cells only respond to colour and transparency",
+    "c": "Soft tissues always require the stiffest possible scaffold",
+    "d": "Stiffness has no effect on tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "Cells can sense mechanical cues from their environment, and scaffold stiffness can influence adhesion, migration, proliferation, and differentiation. Therefore, stiffness should be considered in relation to the target tissue."
+},
+{
+  "id": "90c47d2e-6644-4b59-9127-b6d6b9792e85",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "87",
+  "question": "Which statement best distinguishes a scaffold from a permanent inert implant?",
+  "options": {
+    "a": "A scaffold is usually designed to support tissue formation and may degrade over time",
+    "b": "A scaffold is always metallic and non-degradable",
+    "c": "A scaffold must prevent all cell attachment",
+    "d": "A scaffold is used only for electrical stimulation"
+  },
+  "answer": "a",
+  "explanation": "A scaffold in tissue engineering is commonly designed to guide tissue regeneration and may be biodegradable. A permanent inert implant is usually intended to maintain long-term structural function without being replaced by tissue."
+},
+{
+  "id": "b0d5be9d-5f6a-4112-8b88-28dcd7c9fd08",
+  "section": "Scaffold Design and Tissue Engineering",
+  "number": "88",
+  "question": "Which factor would most likely reduce successful cell infiltration into a scaffold?",
+  "options": {
+    "a": "Interconnected pores of suitable size",
+    "b": "A completely closed pore structure",
+    "c": "A surface that supports cell adhesion",
+    "d": "Controlled degradation behaviour"
+  },
+  "answer": "b",
+  "explanation": "A closed pore structure can prevent cells from migrating through the scaffold and can limit nutrient and oxygen transport. Interconnected pores are generally more favourable for tissue ingrowth."
+},
+{
+  "id": "312c3185-fb24-49d1-8fa0-dbe1a60176d1",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "89",
+  "question": "What is usually one of the earliest events after a biomaterial contacts biological fluid?",
+  "options": {
+    "a": "Immediate formation of mature bone",
+    "b": "Protein adsorption onto the material surface",
+    "c": "Complete disappearance of immune cells",
+    "d": "Instant degradation of the implant"
+  },
+  "answer": "b",
+  "explanation": "Protein adsorption often occurs rapidly after a biomaterial contacts biological fluids. The adsorbed protein layer can influence later cell adhesion, inflammation, and tissue integration."
+},
+{
+  "id": "0a012d70-9385-43bb-b8d4-8180557769c7",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "90",
+  "question": "Why is surface chemistry important for biomaterial performance?",
+  "options": {
+    "a": "It can influence protein adsorption and subsequent cell responses",
+    "b": "It only affects the colour of the material",
+    "c": "It has no effect once the material is implanted",
+    "d": "It prevents all forms of degradation"
+  },
+  "answer": "a",
+  "explanation": "Surface chemistry affects interactions with proteins, cells, and biological fluids. These early interactions can strongly influence biocompatibility and integration."
+},
+{
+  "id": "4e9eaf44-3f24-4c81-a397-ffbdfce8d270",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "91",
+  "question": "Which statement best explains the purpose of surface modification of implants?",
+  "options": {
+    "a": "To change the surface response without necessarily changing the bulk material",
+    "b": "To remove the need for any mechanical testing",
+    "c": "To make all implants biodegradable",
+    "d": "To ensure the implant cannot interact with tissue"
+  },
+  "answer": "a",
+  "explanation": "Surface modification is often used to improve biological interaction, corrosion resistance, wear behaviour, or antibacterial performance while preserving useful bulk mechanical properties."
+},
+{
+  "id": "9af4f4d4-2d68-40ae-bc6e-459ad81fc63e",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "92",
+  "question": "Which surface property is most directly related to contact guidance of cells?",
+  "options": {
+    "a": "Surface topography",
+    "b": "Atomic mass of the implant",
+    "c": "Packaging colour",
+    "d": "Storage temperature before manufacture only"
+  },
+  "answer": "a",
+  "explanation": "Surface topography, including grooves, fibres, and roughness, can guide cell orientation and migration. This is often described as contact guidance."
+},
+{
+  "id": "672fa2a2-7ce9-4e49-8b5a-4e36a88b5efa",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "93",
+  "question": "Which option best describes the foreign body response to an implanted biomaterial?",
+  "options": {
+    "a": "A biological response involving inflammation, macrophage activity, and possible fibrous encapsulation",
+    "b": "A purely electrical reaction unrelated to immune cells",
+    "c": "A process that occurs only in non-living materials outside the body",
+    "d": "A response that always produces perfect tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "The foreign body response is a host reaction to implanted materials and can involve inflammation, macrophages, foreign body giant cells, and fibrous capsule formation."
+},
+{
+  "id": "de7eb143-5728-4c95-b7a4-6cb3daffb7a4",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "94",
+  "question": "Which statement best explains why fibrous encapsulation can be a problem for some implants?",
+  "options": {
+    "a": "It may isolate the implant from surrounding functional tissue",
+    "b": "It always improves electrical signal transmission",
+    "c": "It guarantees full regeneration of the damaged tissue",
+    "d": "It prevents all inflammatory reactions from occurring"
+  },
+  "answer": "a",
+  "explanation": "Fibrous encapsulation can physically separate an implant from surrounding tissue, which may reduce integration or impair function, especially for devices that require close tissue interaction."
+},
+{
+  "id": "92755e58-65ee-4031-87ee-9d8878b38a8d",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "95",
+  "question": "Which surface strategy is most relevant for improving bone bonding on a metallic implant?",
+  "options": {
+    "a": "Applying a bioactive calcium phosphate or hydroxyapatite coating",
+    "b": "Making the surface completely toxic to all cells",
+    "c": "Removing all surface roughness and bioactivity",
+    "d": "Coating the implant with a non-sterile organic contaminant"
+  },
+  "answer": "a",
+  "explanation": "Calcium phosphate or hydroxyapatite coatings can improve the bone-bonding ability of metallic implants by providing a more bone-like and bioactive surface."
+},
+{
+  "id": "ed7f1f0c-f63a-4edb-9a2c-fd38724d3d46",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "96",
+  "question": "Why can excessive wear particle release from an implant be harmful?",
+  "options": {
+    "a": "Wear particles can trigger inflammatory responses and contribute to implant loosening",
+    "b": "Wear particles always strengthen the surrounding bone",
+    "c": "Wear particles prevent macrophage activation",
+    "d": "Wear particles are required for all tissue regeneration"
+  },
+  "answer": "a",
+  "explanation": "Wear particles can be recognised by immune cells and may induce inflammation, osteolysis, and implant loosening depending on particle type, size, dose, and biological context."
+},
+{
+  "id": "5fb04794-a2f8-4e64-8910-63c59d4c0339",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "97",
+  "question": "Which condition-sensitive statement about biomaterial biocompatibility is most accurate?",
+  "options": {
+    "a": "Biocompatibility depends on the material, application site, dose, degradation products, and host response",
+    "b": "A material is biocompatible in every situation once it passes one test",
+    "c": "Biocompatibility is determined only by the material colour",
+    "d": "Biocompatibility means the material cannot interact with cells"
+  },
+  "answer": "a",
+  "explanation": "Biocompatibility is context-dependent. A material that works well in one application may not be suitable in another because tissue site, exposure duration, degradation products, and host factors matter."
+},
+{
+  "id": "260c4f8a-4eb0-4e57-939c-0b2532dc20e3",
+  "section": "Surface Engineering and Cell-Biomaterial Interaction",
+  "number": "98",
+  "question": "Which type of evidence would best support a claim that a surface modification improves cell adhesion?",
+  "options": {
+    "a": "Quantitative cell adhesion or spreading data compared with an unmodified control surface",
+    "b": "A statement that the surface looks smooth to the eye",
+    "c": "The colour of the laboratory container",
+    "d": "The name of the manufacturer only"
+  },
+  "answer": "a",
+  "explanation": "A claim about improved cell adhesion should be supported by comparative biological data, such as adhesion counts, spreading area, staining, or related cell attachment assays against an appropriate control."
+},
+{
+  "id": "49f7a50d-20be-49a0-8ea5-7d63e3f15808",
+  "section": "Biofabrication and 3D Printing",
+  "number": "99",
+  "question": "Which statement best describes the purpose of biofabrication in tissue engineering?",
+  "options": {
+    "a": "To create biologically relevant structures using cells, biomaterials, or bioactive molecules",
+    "b": "To make only non-biological metal tools",
+    "c": "To prevent any spatial control over material placement",
+    "d": "To eliminate the need for cell culture in all cases"
+  },
+  "answer": "a",
+  "explanation": "Biofabrication aims to produce organised biological or bioactive structures, often using cells, biomaterials, and biochemical cues to support tissue engineering and regenerative medicine."
+},
+{
+  "id": "b00cce75-b9f6-49b7-8967-b5059433decd",
+  "section": "Biofabrication and 3D Printing",
+  "number": "100",
+  "question": "What is a major advantage of 3D printing for scaffold fabrication?",
+  "options": {
+    "a": "It can provide controlled scaffold architecture and patient-specific geometries",
+    "b": "It always produces living tissue without cells",
+    "c": "It removes the need for material selection",
+    "d": "It prevents all post-processing requirements"
+  },
+  "answer": "a",
+  "explanation": "3D printing can control scaffold shape, pore architecture, and spatial organisation. It can also support patient-specific designs when based on imaging data."
+},
+{
+  "id": "f8b5ea1a-2982-4782-9cd8-13f3f1c35e3a",
+  "section": "Biofabrication and 3D Printing",
+  "number": "101",
+  "question": "Which limitation is most relevant when printing cell-laden bioinks?",
+  "options": {
+    "a": "Maintaining cell viability while achieving adequate print fidelity",
+    "b": "Ensuring the material is completely non-aqueous",
+    "c": "Using only metals as the printing material",
+    "d": "Preventing all interaction between cells and matrix"
+  },
+  "answer": "a",
+  "explanation": "Cell-laden printing requires balancing printability, mechanical stability, and cell viability. Harsh printing conditions or unsuitable bioink properties can damage cells."
+},
+{
+  "id": "89b67e9a-6aa8-4873-931e-84e33b3f5d86",
+  "section": "Biofabrication and 3D Printing",
+  "number": "102",
+  "question": "Which statement best describes a bioink?",
+  "options": {
+    "a": "A printable formulation that may contain cells, biomaterials, and bioactive components",
+    "b": "A pigment used only for colouring surgical tools",
+    "c": "A metallic powder used exclusively in aerospace engineering",
+    "d": "A solution that must be toxic to cells before printing"
+  },
+  "answer": "a",
+  "explanation": "A bioink is a printable formulation used in bioprinting and may contain living cells, hydrogels, extracellular matrix components, or other bioactive molecules."
+},
+{
+  "id": "ec3e1d40-99ab-452e-998e-a6f1be6ea4c9",
+  "section": "Biofabrication and 3D Printing",
+  "number": "103",
+  "question": "Why are hydrogels commonly used as bioinks?",
+  "options": {
+    "a": "They can provide a hydrated environment that resembles aspects of extracellular matrix",
+    "b": "They are always stronger than metals",
+    "c": "They cannot contain water",
+    "d": "They prevent any diffusion of nutrients"
+  },
+  "answer": "a",
+  "explanation": "Hydrogels are often used because they are water-rich and can provide a cell-compatible environment. However, many hydrogels require optimisation to improve mechanical strength and printability."
+},
+{
+  "id": "d7e4d0fd-b9be-43d4-a29d-723f6c6ee0aa",
+  "section": "Biofabrication and 3D Printing",
+  "number": "104",
+  "question": "Which comparison between extrusion bioprinting and inkjet bioprinting is most accurate?",
+  "options": {
+    "a": "Extrusion printing can handle more viscous bioinks, while inkjet printing usually requires lower-viscosity droplets",
+    "b": "Inkjet printing only works with solid metal rods",
+    "c": "Extrusion printing cannot print hydrogels",
+    "d": "Both methods require no control of cell viability"
+  },
+  "answer": "a",
+  "explanation": "Extrusion bioprinting can often process more viscous materials, while inkjet bioprinting typically ejects droplets and is more limited by viscosity and nozzle conditions."
+},
+{
+  "id": "2f3d2afd-9f05-45ff-9ee9-cf8fe99e3abc",
+  "section": "Biofabrication and 3D Printing",
+  "number": "105",
+  "question": "Which factor is most likely to reduce cell viability during nozzle-based bioprinting?",
+  "options": {
+    "a": "Excessive shear stress during extrusion",
+    "b": "Appropriate sterile handling",
+    "c": "Use of a cell-compatible hydrogel",
+    "d": "Maintaining physiological temperature when required"
+  },
+  "answer": "a",
+  "explanation": "High shear stress during nozzle-based printing can damage cells. Printing parameters and bioink viscosity must be controlled to balance cell survival and shape fidelity."
+},
+{
+  "id": "153c8413-bf36-4f78-baae-2301ad45fd37",
+  "section": "Biofabrication and 3D Printing",
+  "number": "106",
+  "question": "Which statement best explains why vascularisation is a major challenge in thick engineered tissues?",
+  "options": {
+    "a": "Cells far from nutrient supply may suffer from limited oxygen and nutrient diffusion",
+    "b": "All engineered tissues automatically form blood vessels immediately",
+    "c": "Vascularisation is needed only for non-living materials",
+    "d": "Oxygen diffusion is unlimited in all scaffold materials"
+  },
+  "answer": "a",
+  "explanation": "Thick tissues require adequate transport of oxygen and nutrients. Without vascularisation or perfusion, cells far from the surface may become hypoxic or die."
+},
+{
+  "id": "2b2fc8d3-7a50-4c4b-b7e4-4b1968bdcf7c",
+  "section": "Biofabrication and 3D Printing",
+  "number": "107",
+  "question": "Which statement is most accurate about printing resolution in biofabrication?",
+  "options": {
+    "a": "Higher resolution can improve structural detail but may involve trade-offs with speed, material choice, or cell viability",
+    "b": "Higher resolution always guarantees better tissue function",
+    "c": "Resolution has no relation to scaffold architecture",
+    "d": "Low resolution is always biologically superior"
+  },
+  "answer": "a",
+  "explanation": "Printing resolution affects structural detail, but higher resolution may require smaller nozzles, harsher conditions, slower printing, or more restrictive material properties."
+},
+{
+  "id": "b341fd1b-9ef2-463a-bb18-60fda5152cb1",
+  "section": "Biofabrication and 3D Printing",
+  "number": "108",
+  "question": "Which type of question best tests whether a RAG system can avoid overclaiming in biofabrication?",
+  "options": {
+    "a": "A question asking whether current printed constructs fully replace all native organs without limitations",
+    "b": "A question asking only for the spelling of the word scaffold",
+    "c": "A question asking for the colour of a printer casing",
+    "d": "A question that has no relation to biomaterials"
+  },
+  "answer": "a",
+  "explanation": "A good RAG evaluation question can test whether the system recognises limitations and avoids unsupported claims. Biofabrication has important promise, but fully replacing all native organs remains limited by challenges such as vascularisation, maturation, scale, and function."
+}
 ]
