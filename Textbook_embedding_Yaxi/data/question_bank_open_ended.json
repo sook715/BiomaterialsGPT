@@ -1216,5 +1216,187 @@
     "part": "PART-B",
     "number": "10",
     "question": "Describe in detail about cardiac pacemakers."
-  }
+  },
+  {
+  "id": "c15a9e25-62b4-4c90-8a98-99ec93ed1a61",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "1",
+  "question": "Compare natural and synthetic biomaterials in tissue engineering applications."
+},
+{
+  "id": "00a4d972-cd5e-43c7-a4bb-2f88f0e54e13",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "2",
+  "question": "Why is scaffold porosity important for cell infiltration, nutrient transport, and tissue regeneration?"
+},
+{
+  "id": "9d83f51d-11dd-4520-85af-ef3cf637a15a",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "3",
+  "question": "How should scaffold degradation rate be matched to new tissue formation?"
+},
+{
+  "id": "42dd1a3d-4170-4763-b447-1d4896ae34dc",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "4",
+  "question": "Why does scaffold stiffness need to be considered in relation to the target tissue?"
+},
+{
+  "id": "261b76de-efc9-45b4-b3ca-036e7c9210b5",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "5",
+  "question": "What role does protein adsorption play in early biomaterial-tissue interactions?"
+},
+{
+  "id": "e34ec5cc-053e-4876-bfdc-034d6c315d4e",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "6",
+  "question": "How can surface modification improve the performance of an implant without changing its bulk material?"
+},
+{
+  "id": "b7276bc5-8749-4120-872d-29d193559f43",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "7",
+  "question": "Why can fibrous encapsulation reduce the function of some biomaterial implants?"
+},
+{
+  "id": "b0b3c264-cd17-4a5f-bac2-031258cc245a",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "8",
+  "question": "How can wear particles contribute to inflammation, osteolysis, and implant loosening?"
+},
+{
+  "id": "a7f494d1-c347-4025-8134-c3979fb9ecda",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "9",
+  "question": "Why is stress shielding a concern in orthopaedic implant design?"
+},
+{
+  "id": "042676d3-bfb5-4ecd-8307-16379079e5af",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "10",
+  "question": "How does hydroxyapatite support bone-related biomaterial applications?"
+},
+{
+  "id": "249085e7-933b-4a7d-b65a-fac23320109c",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "11",
+  "question": "Differentiate between osteoconduction and osteoinduction."
+},
+{
+  "id": "f1223eee-b0c1-409a-a1af-d236a371aeaf",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "12",
+  "question": "Why are hydrogels commonly used to mimic soft extracellular matrix environments?"
+},
+{
+  "id": "d345b5fd-653b-4b76-9e86-74bca2e7a12e",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "13",
+  "question": "What are the main limitations of unmodified collagen or alginate hydrogels in tissue engineering?"
+},
+{
+  "id": "f1d55f00-c8e0-4753-826e-94ffea0cdb32",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "14",
+  "question": "Why must antibacterial biomaterials balance bacterial inhibition with host-cell compatibility?"
+},
+{
+  "id": "85832102-d6df-4a9d-959d-72efc6cfc63c",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "15",
+  "question": "How can drug release from a hydrogel be influenced by swelling, degradation, and crosslinking density?"
+},
+{
+  "id": "9098195f-1f6a-4c64-9406-fb0c3584cc93",
+  "unit": "UNIT-6",
+  "part": "PART-A",
+  "number": "16",
+  "question": "How should insufficient evidence be handled when interpreting biomaterials research?"
+},
+{
+  "id": "3bc6c736-bda0-42ae-bd40-a26de5afbd56",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "1",
+  "question": "Discuss the advantages and limitations of natural and synthetic hydrogels in tissue engineering applications."
+},
+{
+  "id": "31d0c9cd-315e-41ca-9fed-898eb89d7f2e",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "2",
+  "question": "Explain how scaffold design should balance porosity, mechanical strength, degradation rate, and vascularisation for tissue regeneration."
+},
+{
+  "id": "22399c10-d42d-4993-b325-0737aeaf6572",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "3",
+  "question": "Discuss how surface chemistry, surface topography, and protein adsorption influence cell-biomaterial interactions."
+},
+{
+  "id": "5d9dc22e-f251-4fa3-81b4-3fb9b466675f",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "4",
+  "question": "Explain the foreign body response to implanted biomaterials and discuss why macrophage activity and fibrous encapsulation are important for implant performance."
+},
+{
+  "id": "6422119b-e0c8-44e3-b5a4-5bb019c59480",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "5",
+  "question": "Compare hydroxyapatite, bioactive glass, and alumina as bioceramics, focusing on bioactivity, mechanical limitations, and bone-related applications."
+},
+{
+  "id": "c086df62-c72e-4743-9103-d28a07ab36df",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "6",
+  "question": "Discuss how implant failure can arise from wear particles, corrosion, infection, stress shielding, or poor tissue integration."
+},
+{
+  "id": "3a65d18b-dc53-440c-9e13-9d32c4f4f8e6",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "7",
+  "question": "Explain the main design strategies for antibacterial biomaterials, including anti-adhesive surfaces, contact-killing surfaces, and release-based systems."
+},
+{
+  "id": "2df4fcb4-3b31-42f3-ab21-ea226a9b6e83",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "8",
+  "question": "Discuss how biomaterials can be used for controlled drug delivery, including drug loading, release kinetics, degradation, bioactivity, and toxicity."
+},
+{
+  "id": "bc6b83e4-6c34-4c3a-9332-02d5c7112c33",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "9",
+  "question": "How should biomaterials evidence be interpreted when studies differ in cell type, animal model, material processing, testing conditions, or outcome measures?"
+},
+{
+  "id": "bdd4c65f-114c-4ddd-a3d4-8340b518dc89",
+  "unit": "UNIT-6",
+  "part": "PART-B",
+  "number": "10",
+  "question": "Explain how unsupported claims and overgeneralised clinical conclusions should be avoided when interpreting biomaterials research."
+}
 ]
