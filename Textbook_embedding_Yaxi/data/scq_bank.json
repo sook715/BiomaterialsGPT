@@ -1874,5 +1874,425 @@
   },
   "answer": "a",
   "explanation": "Hydroxyapatite and bioactive glass are both relevant to bone repair, but they are not identical. Their chemistry, dissolution, ion release, and tissue responses can differ."
+},
+  {
+  "id": "f21db1c7-7d2c-44f7-bd8e-28a8be3c6742",
+  "section": "Implant Failure and Host Response",
+  "number": "139",
+  "question": "Which statement best describes the foreign body response to an implanted biomaterial?",
+  "options": {
+    "a": "A host response involving protein adsorption, inflammation, macrophage activity, and possible fibrous encapsulation",
+    "b": "A purely mechanical process with no immune involvement",
+    "c": "A response that occurs only before implantation",
+    "d": "A guarantee that the implant will regenerate tissue perfectly"
+  },
+  "answer": "a",
+  "explanation": "The foreign body response is a biological host response to an implanted material. It can involve protein adsorption, inflammatory cells, macrophages, foreign body giant cells, and fibrous capsule formation."
+},
+{
+  "id": "ae3f7e36-37c4-47cc-b99e-c5af7b48fe67",
+  "section": "Implant Failure and Host Response",
+  "number": "140",
+  "question": "Why can fibrous capsule formation reduce the function of some implants?",
+  "options": {
+    "a": "It can physically separate the implant from surrounding tissue and limit functional integration",
+    "b": "It always improves electrical and biochemical communication",
+    "c": "It guarantees rapid vascularisation inside every implant",
+    "d": "It means the implant has completely disappeared"
+  },
+  "answer": "a",
+  "explanation": "Fibrous encapsulation can isolate an implant from surrounding tissue. This may be problematic for implants requiring close tissue contact, integration, sensing, or controlled molecular exchange."
+},
+{
+  "id": "ee51b7f1-b91f-459e-bdd8-cbf64b0e84de",
+  "section": "Implant Failure and Host Response",
+  "number": "141",
+  "question": "Which factor is most likely to influence the severity of the host response to an implant?",
+  "options": {
+    "a": "Material chemistry, surface properties, degradation products, implant location, and host condition",
+    "b": "Only the spelling of the material name",
+    "c": "Only the colour of the surgical package",
+    "d": "The number of letters in the manufacturer name"
+  },
+  "answer": "a",
+  "explanation": "Host response is multifactorial. Material chemistry, surface roughness, degradation products, implantation site, mechanical environment, contamination, and patient-specific factors can all influence the response."
+},
+{
+  "id": "8b76a1df-450a-4a5a-aef5-9b3baf1146b5",
+  "section": "Implant Failure and Host Response",
+  "number": "142",
+  "question": "Which statement best explains aseptic loosening of an orthopaedic implant?",
+  "options": {
+    "a": "Implant loosening not primarily caused by infection, often associated with wear particles, inflammation, and bone loss",
+    "b": "Implant loosening caused only by bacterial biofilm",
+    "c": "A normal process that always improves implant fixation",
+    "d": "A process unrelated to mechanical or biological factors"
+  },
+  "answer": "a",
+  "explanation": "Aseptic loosening refers to loosening without infection as the primary cause. It is often linked to wear debris, inflammatory reactions, osteolysis, and mechanical factors."
+},
+{
+  "id": "2bc47b66-e3ea-44c5-a7f6-40b1f240c8ec",
+  "section": "Implant Failure and Host Response",
+  "number": "143",
+  "question": "Why can wear particles from an implant contribute to osteolysis?",
+  "options": {
+    "a": "They can activate immune cells and inflammatory pathways that promote bone resorption",
+    "b": "They always become new healthy bone tissue",
+    "c": "They prevent macrophages from responding",
+    "d": "They make the implant permanently immune to failure"
+  },
+  "answer": "a",
+  "explanation": "Wear particles can be phagocytosed or recognised by immune cells, leading to inflammatory mediator release. This can promote osteoclast activity and bone resorption around implants."
+},
+{
+  "id": "e1c3e7a9-5686-44f3-a73e-4cd4e0d52057",
+  "section": "Implant Failure and Host Response",
+  "number": "144",
+  "question": "Which condition-sensitive statement about implant wear particles is most accurate?",
+  "options": {
+    "a": "Biological response can depend on particle material, size, shape, dose, and exposure duration",
+    "b": "All wear particles have identical biological effects",
+    "c": "Wear particles are always beneficial in every implant",
+    "d": "Wear particles cannot interact with immune cells"
+  },
+  "answer": "a",
+  "explanation": "The biological effect of wear debris is context-dependent. Particle size, shape, chemistry, concentration, and duration of exposure can influence inflammatory and tissue responses."
+},
+{
+  "id": "d62b5311-944d-4e47-b617-cf6bb93a4ad1",
+  "section": "Implant Failure and Host Response",
+  "number": "145",
+  "question": "Which statement best explains stress shielding in orthopaedic implants?",
+  "options": {
+    "a": "A stiff implant can carry too much load, reducing mechanical stimulation of nearby bone and causing bone resorption",
+    "b": "A soft hydrogel increases all bone loading infinitely",
+    "c": "Stress shielding means bacteria cover the implant surface",
+    "d": "Stress shielding is unrelated to elastic modulus"
+  },
+  "answer": "a",
+  "explanation": "Stress shielding occurs when an implant is much stiffer than surrounding bone and carries a disproportionate amount of load. Reduced loading of bone can lead to bone resorption."
+},
+{
+  "id": "dcd620e1-5d82-4e5c-9a19-7e8f29dc3e0d",
+  "section": "Implant Failure and Host Response",
+  "number": "146",
+  "question": "Which material design strategy could reduce stress shielding in a bone implant?",
+  "options": {
+    "a": "Using an implant design or material with stiffness closer to that of bone where mechanically appropriate",
+    "b": "Using the stiffest possible material regardless of anatomical site",
+    "c": "Removing all mechanical testing from implant development",
+    "d": "Making the implant surface completely non-sterile"
+  },
+  "answer": "a",
+  "explanation": "Reducing stiffness mismatch between implant and bone can help reduce stress shielding. However, the implant must still have adequate strength and fatigue resistance for its application."
+},
+{
+  "id": "56c32f41-53ab-4b76-bd09-5b71fe4f97c0",
+  "section": "Implant Failure and Host Response",
+  "number": "147",
+  "question": "Which statement best describes corrosion-related implant failure?",
+  "options": {
+    "a": "Chemical or electrochemical degradation of a material that may release ions or weaken the implant",
+    "b": "A process that occurs only in dry air and never in the body",
+    "c": "A biological process where collagen becomes hydroxyapatite",
+    "d": "A guaranteed sign of improved biocompatibility"
+  },
+  "answer": "a",
+  "explanation": "Corrosion involves chemical or electrochemical degradation. In implants, corrosion may weaken the material or release ions that can affect local or systemic tissue responses."
+},
+{
+  "id": "c76f27d2-86dc-4f64-a325-4138a8b56f8e",
+  "section": "Implant Failure and Host Response",
+  "number": "148",
+  "question": "Which evidence would best support a claim that an implant material has good corrosion resistance?",
+  "options": {
+    "a": "Electrochemical testing or ion-release data under relevant simulated physiological conditions",
+    "b": "The implant being photographed under bright light",
+    "c": "The material name sounding modern",
+    "d": "The sample being stored in a box"
+  },
+  "answer": "a",
+  "explanation": "Corrosion resistance should be supported by relevant experimental data, such as electrochemical measurements, immersion testing, and ion release under conditions that approximate the intended environment."
+},
+{
+  "id": "72dca2cb-9243-4b34-b145-f4d05142bb38",
+  "section": "Implant Failure and Host Response",
+  "number": "149",
+  "question": "Which statement best explains why infection is a serious complication for implants?",
+  "options": {
+    "a": "Bacteria can attach to implant surfaces and form biofilms that are difficult to eradicate",
+    "b": "Implant infections always resolve without treatment",
+    "c": "Biofilms make bacteria easier to remove than free-floating cells",
+    "d": "Bacteria cannot interact with biomaterial surfaces"
+  },
+  "answer": "a",
+  "explanation": "Implant-associated infection is serious because bacteria can adhere to surfaces and form biofilms, which can resist immune clearance and antimicrobial treatment."
+},
+{
+  "id": "c9c1b6fa-978c-4ee7-a71e-78e944f592b8",
+  "section": "Implant Failure and Host Response",
+  "number": "150",
+  "question": "Which statement best distinguishes local and systemic responses to a biomaterial?",
+  "options": {
+    "a": "Local responses occur near the implant site, while systemic responses affect the body more broadly",
+    "b": "Local responses happen only in test tubes, while systemic responses happen only in metals",
+    "c": "Both terms mean the same thing",
+    "d": "Systemic responses are always beneficial and local responses are always absent"
+  },
+  "answer": "a",
+  "explanation": "Local responses include inflammation, tissue integration, infection, or fibrosis near the implant. Systemic responses may involve immune, toxic, or inflammatory effects beyond the implant site."
+},
+{
+  "id": "f06bd5e7-1c58-4fdd-95c2-8d8b988dfdaa",
+  "section": "Implant Failure and Host Response",
+  "number": "151",
+  "question": "Which interpretation should a RAG system avoid when a study reports only short-term low cytotoxicity in vitro?",
+  "options": {
+    "a": "Claiming the material is proven safe for long-term human implantation",
+    "b": "Stating that short-term cytotoxicity appeared low under the tested conditions",
+    "c": "Noting that further long-term and in vivo evaluation may be needed",
+    "d": "Recognising that in vitro findings are limited by experimental conditions"
+  },
+  "answer": "a",
+  "explanation": "Short-term in vitro cytotoxicity data cannot by itself prove long-term clinical safety. A RAG system should avoid overclaiming beyond the available evidence."
+},
+{
+  "id": "1c7ccda3-e4fd-44a8-a609-fde4a55db6b1",
+  "section": "Implant Failure and Host Response",
+  "number": "152",
+  "question": "Which outcome is most relevant when evaluating whether an implant is mechanically failing?",
+  "options": {
+    "a": "Fracture, fatigue damage, loosening, excessive wear, or loss of intended mechanical function",
+    "b": "The colour of the figure legend",
+    "c": "The number of authors on a paper",
+    "d": "Whether the implant name contains the letter B"
+  },
+  "answer": "a",
+  "explanation": "Mechanical failure can include fracture, fatigue, wear, loosening, deformation, or inability to perform the intended load-bearing or structural function."
+},
+{
+  "id": "f85c793a-3a25-49f6-9be4-024826d9853d",
+  "section": "Implant Failure and Host Response",
+  "number": "153",
+  "question": "Which statement is most accurate about evaluating implant success?",
+  "options": {
+    "a": "Success depends on mechanical performance, biological response, clinical context, and duration of function",
+    "b": "Success is determined only by whether the implant looks shiny",
+    "c": "Success is guaranteed once one in vitro test is passed",
+    "d": "Clinical context is irrelevant for implant evaluation"
+  },
+  "answer": "a",
+  "explanation": "Implant success is multidimensional. Mechanical durability, integration, infection risk, host response, degradation, patient factors, and long-term clinical function all matter."
+},
+{
+  "id": "6e77ef9d-0e56-4fb2-96bd-81d0a9a48dc0",
+  "section": "Antibacterial Biomaterials",
+  "number": "154",
+  "question": "What is a main goal of antibacterial biomaterials?",
+  "options": {
+    "a": "To reduce bacterial adhesion, growth, biofilm formation, or infection risk while preserving host compatibility",
+    "b": "To increase bacterial biofilm formation on all implants",
+    "c": "To make all materials toxic to every cell type",
+    "d": "To eliminate the need for sterility in surgery"
+  },
+  "answer": "a",
+  "explanation": "Antibacterial biomaterials aim to reduce bacterial colonisation or infection while maintaining acceptable compatibility with host cells and tissues."
+},
+{
+  "id": "ef8ed931-861c-4ed4-8908-6b593bcb41fc",
+  "section": "Antibacterial Biomaterials",
+  "number": "155",
+  "question": "Which statement best explains why biofilms are difficult to treat on implant surfaces?",
+  "options": {
+    "a": "Biofilms can protect bacteria from antibiotics and immune clearance",
+    "b": "Biofilms make bacteria completely harmless",
+    "c": "Biofilms are always easier to remove than single planktonic bacteria",
+    "d": "Biofilms cannot form on biomaterial surfaces"
+  },
+  "answer": "a",
+  "explanation": "Bacteria in biofilms are embedded in a protective extracellular matrix and can be more tolerant to antibiotics and immune responses than planktonic cells."
+},
+{
+  "id": "a5d3044b-2954-4d0f-a313-30d5ae6075c2",
+  "section": "Antibacterial Biomaterials",
+  "number": "156",
+  "question": "Which strategy is most directly related to contact-killing antibacterial surfaces?",
+  "options": {
+    "a": "Immobilising antibacterial functional groups on the surface to kill bacteria upon contact",
+    "b": "Releasing no antibacterial agent and preventing all surface interactions",
+    "c": "Making the surface identical to untreated glass in every way",
+    "d": "Removing the implant before bacterial exposure"
+  },
+  "answer": "a",
+  "explanation": "Contact-killing surfaces use immobilised antibacterial groups or structures to kill bacteria at the material interface, rather than relying only on release of soluble drugs."
+},
+{
+  "id": "78d3b9c0-14a0-4044-b762-924be5bfb2f7",
+  "section": "Antibacterial Biomaterials",
+  "number": "157",
+  "question": "Which strategy is most directly related to release-based antibacterial biomaterials?",
+  "options": {
+    "a": "Controlled delivery of antibacterial agents such as antibiotics, metal ions, or antimicrobial molecules",
+    "b": "Complete absence of any active molecule",
+    "c": "Preventing all diffusion from the material",
+    "d": "Using only inert colour pigments"
+  },
+  "answer": "a",
+  "explanation": "Release-based antibacterial systems aim to deliver antibacterial agents from the material over time. Release kinetics, dose, toxicity, and resistance risk must be considered."
+},
+{
+  "id": "1e45988d-62d8-4208-a364-4a397e9cce23",
+  "section": "Antibacterial Biomaterials",
+  "number": "158",
+  "question": "Which concern is most relevant when using silver-containing antibacterial biomaterials?",
+  "options": {
+    "a": "Balancing antibacterial activity with potential cytotoxicity and dose-dependent effects",
+    "b": "Silver has no possible biological effect at any concentration",
+    "c": "Silver can only be used as a structural protein",
+    "d": "Silver always improves every cell response regardless of dose"
+  },
+  "answer": "a",
+  "explanation": "Silver can provide antibacterial activity, but its biological effects are dose-dependent. Excessive release or concentration may harm mammalian cells, so dose and release must be controlled."
+},
+{
+  "id": "ee0b9a5c-6031-4d14-8fe3-6892d36047b8",
+  "section": "Antibacterial Biomaterials",
+  "number": "159",
+  "question": "Which evidence would best support a claim that a coating has antibacterial activity?",
+  "options": {
+    "a": "Quantitative reduction in bacterial adhesion, viability, colony counts, or biofilm biomass compared with an appropriate control",
+    "b": "A photograph of the coating colour only",
+    "c": "The coating being described as advanced without data",
+    "d": "The material being expensive"
+  },
+  "answer": "a",
+  "explanation": "Antibacterial claims should be supported by quantitative biological evidence, such as colony-forming units, live/dead staining, bacterial adhesion assays, or biofilm biomass measurements with controls."
+},
+{
+  "id": "ec2d2345-29b7-47b5-a6e3-7bbfa367c40e",
+  "section": "Antibacterial Biomaterials",
+  "number": "160",
+  "question": "Which condition-sensitive statement about antibacterial test results is most accurate?",
+  "options": {
+    "a": "Results can depend on bacterial strain, contact time, culture conditions, material dose, and assay method",
+    "b": "A result against one bacterial strain proves effectiveness against all microbes",
+    "c": "Culture conditions never affect antibacterial testing",
+    "d": "Contact time is irrelevant for antibacterial performance"
+  },
+  "answer": "a",
+  "explanation": "Antibacterial performance depends on experimental context. Strain type, inoculum, exposure time, medium, assay method, and material dose can all influence results."
+},
+{
+  "id": "9ebfc053-a9ff-4dfa-81ad-9a70e4f1bf4a",
+  "section": "Antibacterial Biomaterials",
+  "number": "161",
+  "question": "Which statement best describes a trade-off in antibacterial biomaterial design?",
+  "options": {
+    "a": "Increasing antibacterial potency may also increase risk of host-cell toxicity if not controlled",
+    "b": "Antibacterial activity and cytocompatibility are always perfectly aligned",
+    "c": "A material toxic to all cells is automatically ideal",
+    "d": "Host-cell response does not need to be considered"
+  },
+  "answer": "a",
+  "explanation": "An effective antibacterial biomaterial should reduce bacterial colonisation while maintaining acceptable host-cell compatibility. Strong antimicrobial effects may become harmful if dose or mechanism is not controlled."
+},
+{
+  "id": "bbcd4036-ef49-46a4-962e-5f0e30d9d1ff",
+  "section": "Antibacterial Biomaterials",
+  "number": "162",
+  "question": "Which surface property can reduce bacterial adhesion without necessarily killing bacteria directly?",
+  "options": {
+    "a": "Anti-adhesive surface chemistry or topography that discourages bacterial attachment",
+    "b": "A surface designed only to trap bacteria permanently",
+    "c": "A surface contaminated before implantation",
+    "d": "A surface that releases nutrients for bacterial growth"
+  },
+  "answer": "a",
+  "explanation": "Some antibacterial strategies aim to resist bacterial attachment through surface chemistry, hydration layers, charge, or topography. These may reduce adhesion without directly killing bacteria."
+},
+{
+  "id": "87861aa7-931a-48b1-83c3-6835495311e7",
+  "section": "Antibacterial Biomaterials",
+  "number": "163",
+  "question": "Which statement best explains why antibacterial and osteogenic functions may both be needed for bone implants?",
+  "options": {
+    "a": "The implant should reduce infection risk while also supporting bone integration",
+    "b": "Bone implants never interact with bacteria or bone cells",
+    "c": "Antibacterial activity always prevents bone formation",
+    "d": "Osteogenic function is irrelevant for bone implants"
+  },
+  "answer": "a",
+  "explanation": "Bone implants often need to support osseointegration while reducing infection risk. The challenge is to combine antibacterial performance with cytocompatibility and bone-forming activity."
+},
+{
+  "id": "6e27d749-cb38-4dd2-9e4d-392bf976d9ef",
+  "section": "Antibacterial Biomaterials",
+  "number": "164",
+  "question": "Which interpretation should a RAG system avoid if a material reduces one bacterial strain in vitro but lacks mammalian cell data?",
+  "options": {
+    "a": "Claiming the material is clinically safe and broadly antibacterial for all applications",
+    "b": "Stating that antibacterial activity was observed under the tested in vitro condition",
+    "c": "Noting that cytocompatibility and broader testing are still needed",
+    "d": "Recognising that the conclusion is limited by the tested strain and assay"
+  },
+  "answer": "a",
+  "explanation": "A single in vitro antibacterial result does not prove clinical safety or broad-spectrum activity. A RAG system should avoid unsupported generalisation."
+},
+{
+  "id": "4c90dc24-d3ff-4f98-a022-24da814106a8",
+  "section": "Antibacterial Biomaterials",
+  "number": "165",
+  "question": "Which comparison between antibiotic release and contact-killing surfaces is most accurate?",
+  "options": {
+    "a": "Antibiotic release depends on controlled delivery into the environment, while contact-killing depends on bacteria interacting with the active surface",
+    "b": "Both strategies require no material design",
+    "c": "Contact-killing always releases large doses of antibiotic",
+    "d": "Antibiotic release cannot influence bacteria"
+  },
+  "answer": "a",
+  "explanation": "Release systems deliver antibacterial agents into the surrounding environment, while contact-killing surfaces act mainly at the interface. Each has advantages, limitations, and safety considerations."
+},
+{
+  "id": "a0aa94e8-f870-437a-8b12-8065f013d1ab",
+  "section": "Antibacterial Biomaterials",
+  "number": "166",
+  "question": "Which factor is important when evaluating risk of antimicrobial resistance in release-based biomaterials?",
+  "options": {
+    "a": "Whether released concentrations may become sub-lethal over time and select for tolerant or resistant bacteria",
+    "b": "Whether the material has a nice colour",
+    "c": "Whether the implant name is short",
+    "d": "Whether the test tube is transparent"
+  },
+  "answer": "a",
+  "explanation": "Release-based systems may create changing local concentrations. If antibacterial levels fall below effective thresholds, they may contribute to selection pressure for tolerant or resistant bacteria."
+},
+{
+  "id": "5cbab03c-d483-42f0-bfb9-fd1df28ec53a",
+  "section": "Antibacterial Biomaterials",
+  "number": "167",
+  "question": "Which outcome would best evaluate whether an antibacterial coating also supports host-cell compatibility?",
+  "options": {
+    "a": "Testing mammalian cell viability, adhesion, or function alongside antibacterial assays",
+    "b": "Measuring only the coating colour",
+    "c": "Counting only the number of figures in a paper",
+    "d": "Assuming all antibacterial coatings are automatically cytocompatible"
+  },
+  "answer": "a",
+  "explanation": "A coating intended for implantation should be assessed for both antibacterial effect and host-cell response. Mammalian cell viability, adhesion, proliferation, and function are relevant measures."
+},
+{
+  "id": "16ec4fc2-2138-4387-aa2e-7d073f00d68f",
+  "section": "Antibacterial Biomaterials",
+  "number": "168",
+  "question": "Which statement best reflects uncertainty when comparing antibacterial biomaterials across studies?",
+  "options": {
+    "a": "Differences in strains, assays, exposure times, controls, and outcome measures can make direct comparison difficult",
+    "b": "All antibacterial studies use identical methods",
+    "c": "The strongest claim should always be accepted without checking methods",
+    "d": "Only the title of a study is needed to compare antibacterial performance"
+  },
+  "answer": "a",
+  "explanation": "Antibacterial studies often differ in bacterial strains, inoculum, culture media, assay methods, controls, time points, and outcome measures. These differences can limit direct comparison."
 }
 ]
