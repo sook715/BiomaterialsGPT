@@ -6,10 +6,9 @@ import faiss
 import numpy as np
 from typing import List
 
-from paths import EXPORT_TEXTBOOK_CSV, FAISS_INDEX, METADATA_CSV, TEXTBOOK_DIR
+from paths import FAISS_INDEX, METADATA_CSV, TEXTBOOK_DIR
 
 # === CONFIG ===
-CSV_PATH = str(EXPORT_TEXTBOOK_CSV)
 PDF_DIR = str(TEXTBOOK_DIR) + os.sep
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 CHUNK_SIZE = 3000
@@ -17,7 +16,6 @@ FAISS_INDEX_PATH = str(FAISS_INDEX)
 METADATA_PATH = str(METADATA_CSV)
 
 print("🔧 Configuration loaded.")
-print(f"CSV path: {CSV_PATH}")
 print(f"PDF directory: {PDF_DIR}")
 print(f"Model: {MODEL_NAME}")
 print(f"Chunk size: {CHUNK_SIZE}\n")
@@ -48,12 +46,13 @@ model = SentenceTransformer(MODEL_NAME)
 embedding_dim = model.get_sentence_embedding_dimension()
 print(f"✅ Model loaded: Embedding dimension = {embedding_dim}")
 
-# === LOAD CSV ===
-print("\n📄 Loading CSV...")
-df = pd.read_csv(CSV_PATH)
-print(f"✅ Loaded {len(df)} rows from CSV.")
-file_paths = df['file_path'].dropna().apply(lambda x: str(x).strip()).unique()
-print(f"📚 Found {len(file_paths)} unique file paths.\n")
+# === SCAN TEXTBOOK FOLDER FOR PDFs ===
+# (previously this read a curated CSV's 'file_path' column; now we just
+#  scan the folder directly so newly added PDFs are picked up automatically)
+print("\n📂 Scanning textbook folder for PDFs...")
+pdf_files = sorted(f for f in os.listdir(PDF_DIR) if f.lower().endswith(".pdf"))
+file_paths = [os.path.splitext(f)[0] for f in pdf_files]
+print(f"📚 Found {len(file_paths)} PDF files.\n")
 
 # === INIT FAISS ===
 index = faiss.IndexFlatL2(embedding_dim)
@@ -62,14 +61,14 @@ metadata = []
 # === PROCESS PDFs ===
 for file_name in file_paths:
     pdf_path = os.path.join(PDF_DIR, f"{file_name}.pdf")
-    
+
     if not os.path.isfile(pdf_path):
         print(f"❌ File not found: {pdf_path}")
         continue
 
     print(f"\n📄 Processing PDF: {pdf_path}")
     text = extract_text_from_pdf(pdf_path)
-    
+
     if not text.strip():
         print("⚠️ No text extracted from PDF. Skipping.")
         continue
